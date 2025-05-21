@@ -1,0 +1,1044 @@
+Problem: IC-T1-1-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 1
+  The number of remaining columns: 49
+
+  Number of lsm: 134528
+  Total running time: 77.919
+
+Problem: IC-T1-1-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 8
+  The number of remaining columns: 42
+
+  Number of lsm: 332104
+  Total running time: 699.578
+
+Problem: IC-T1-2-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 16
+  The number of remaining columns: 34
+
+  Number of lsm: 139374
+  Total running time: 104.705
+
+Problem: IC-T1-2-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 3
+  The number of remaining columns: 47
+
+  Number of lsm: 271992
+  Total running time: 543.935
+
+Problem: IC-T1-3-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 162190
+  Total running time: 140.272
+
+Problem: IC-T1-3-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 1
+  The number of remaining columns: 49
+
+  Number of lsm: 17346
+  Total running time: 1.083
+
+Problem: IC-T2-1-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 5781
+  Total running time: 0.145
+
+Problem: IC-T2-1-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 2
+  The number of remaining columns: 48
+
+  Number of lsm: 4149
+  Total running time: 0.065
+
+Problem: IC-T2-2-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 4603
+  Total running time: 0.088
+
+Problem: IC-T2-2-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 3806
+  Total running time: 0.061
+
+Problem: IC-T2-3-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 7381
+  Total running time: 0.228
+
+Problem: IC-T2-3-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 5727
+  Total running time: 0.134
+
+Problem: IC-T3-1-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 1048
+  Total running time: 0.01
+
+Problem: IC-T3-1-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 1143
+  Total running time: 0.01
+
+Problem: IC-T3-2-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 1
+  The number of remaining columns: 49
+
+  Number of lsm: 946
+  Total running time: 0.008
+
+Problem: IC-T3-2-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 1398
+  Total running time: 0.014
+
+Problem: IC-T3-3-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 1129
+  Total running time: 0.011
+
+Problem: IC-T3-3-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 1640
+  Total running time: 0.018
+
+Problem: IC-T4-1-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 24797
+  Total running time: 2.681
+
+Problem: IC-T4-1-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 22598
+  Total running time: 2.201
+
+Problem: IC-T4-2-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 25466
+  Total running time: 2.947
+
+Problem: IC-T4-2-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 18898
+  Total running time: 1.549
+
+Problem: IC-T4-3-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 35812
+  Total running time: 4.877
+
+Problem: IC-T4-3-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 30405
+  Total running time: 3.263
+
+Problem: IC-T5-1-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 2197
+  Total running time: 0.053
+
+Problem: IC-T5-1-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 1849
+  Total running time: 0.043
+
+Problem: IC-T5-2-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 2281
+  Total running time: 0.061
+
+Problem: IC-T5-2-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 1892
+  Total running time: 0.044
+
+Problem: IC-T5-3-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 1786
+  Total running time: 0.041
+
+Problem: IC-T5-3-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 1072
+  Total running time: 0.024
+
+Problem: IC-T6-1-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 622
+  Total running time: 0.015
+
+Problem: IC-T6-1-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 370
+  Total running time: 0.008
+
+Problem: IC-T6-2-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 583
+  Total running time: 0.013
+
+Problem: IC-T6-2-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 602
+  Total running time: 0.014
+
+Problem: IC-T6-3-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 691
+  Total running time: 0.016
+
+Problem: IC-T6-3-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 826
+  Total running time: 0.02
+
+Problem: IC-T7-1-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 1
+  The number of remaining columns: 199
+
+  Number of lsm: 8516
+  Total running time: 0.686
+
+Problem: IC-T7-1-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 5440
+  Total running time: 0.392
+
+Problem: IC-T7-2-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 8281
+  Total running time: 0.686
+
+Problem: IC-T7-2-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 6014
+  Total running time: 0.444
+
+Problem: IC-T7-3-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 9537
+  Total running time: 0.816
+
+Problem: IC-T7-3-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 3523
+  Total running time: 0.259
+
+Problem: IC-T8-1-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 1360
+  Total running time: 0.087
+
+Problem: IC-T8-1-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 907
+  Total running time: 0.062
+
+Problem: IC-T8-2-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 1266
+  Total running time: 0.081
+
+Problem: IC-T8-2-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 1023
+  Total running time: 0.065
+
+Problem: IC-T8-3-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 1
+  The number of remaining columns: 199
+
+  Number of lsm: 1225
+  Total running time: 0.081
+
+Problem: IC-T8-3-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 540
+  Total running time: 0.037
+
+Problem: IC-T9-1-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 1
+  The number of remaining columns: 199
+
+  Number of lsm: 343
+  Total running time: 0.025
+
+Problem: IC-T9-1-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 288
+  Total running time: 0.021
+
+Problem: IC-T9-2-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 1
+  The number of remaining columns: 199
+
+  Number of lsm: 362
+  Total running time: 0.024
+
+Problem: IC-T9-2-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 269
+  Total running time: 0.021
+
+Problem: IC-T9-3-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 1
+  The number of remaining columns: 199
+
+  Number of lsm: 393
+  Total running time: 0.026
+
+Problem: IC-T9-3-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 270
+  Total running time: 0.02
+
+Problem: IC-T10-1-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 1
+  The number of remaining columns: 299
+
+  Number of lsm: 28365
+  Total running time: 5.536
+
+Problem: IC-T10-1-second-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 43109
+  Total running time: 12.173
+
+Problem: IC-T10-2-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 1
+  The number of remaining columns: 299
+
+  Number of lsm: 34598
+  Total running time: 8.618
+
+Problem: IC-T10-2-second-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 33093
+  Total running time: 7.681
+
+Problem: IC-T10-3-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 2
+  The number of remaining columns: 298
+
+  Number of lsm: 29577
+  Total running time: 5.985
+
+Problem: IC-T10-3-second-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 14400
+  Total running time: 1.933
+
+Problem: IC-T11-1-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 3017
+  Total running time: 0.311
+
+Problem: IC-T11-1-second-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 2240
+  Total running time: 0.198
+
+Problem: IC-T11-2-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 2194
+  Total running time: 0.207
+
+Problem: IC-T11-2-second-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 1484
+  Total running time: 0.152
+
+Problem: IC-T11-3-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 2479
+  Total running time: 0.229
+
+Problem: IC-T11-3-second-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 2157
+  Total running time: 0.215
+
+Problem: IC-T12-1-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 1
+  The number of remaining columns: 299
+
+  Number of lsm: 689
+  Total running time: 0.066
+
+Problem: IC-T12-1-second-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 518
+  Total running time: 0.056
+
+Problem: IC-T12-2-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 1
+  The number of remaining columns: 299
+
+  Number of lsm: 694
+  Total running time: 0.07
+
+Problem: IC-T12-2-second-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 589
+  Total running time: 0.061
+
+Problem: IC-T12-3-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 2
+  The number of remaining columns: 298
+
+  Number of lsm: 689
+  Total running time: 0.07
+
+Problem: IC-T12-3-second-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 419
+  Total running time: 0.045
+
+Problem: IC-T13-1-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 1328
+  Total running time: 0.013
+
+Problem: IC-T13-1-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 1533
+  Total running time: 0.015
+
+Problem: IC-T13-2-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 2
+  The number of remaining columns: 48
+
+  Number of lsm: 1780
+  Total running time: 0.018
+
+Problem: IC-T13-2-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 715
+  Total running time: 0.007
+
+Problem: IC-T13-3-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 1
+  The number of remaining columns: 49
+
+  Number of lsm: 946
+  Total running time: 0.008
+
+Problem: IC-T13-3-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 1015
+  Total running time: 0.01
+
+Problem: IC-T14-1-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 1353
+  Total running time: 0.031
+
+Problem: IC-T14-1-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 1877
+  Total running time: 0.048
+
+Problem: IC-T14-2-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 2042
+  Total running time: 0.053
+
+Problem: IC-T14-2-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 926
+  Total running time: 0.019
+
+Problem: IC-T14-3-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 1878
+  Total running time: 0.042
+
+Problem: IC-T14-3-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 2692
+  Total running time: 0.07
+
+Problem: IC-T15-1-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 14936
+  Total running time: 1.619
+
+Problem: IC-T15-1-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 5645
+  Total running time: 0.375
+
+Problem: IC-T15-2-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 11211
+  Total running time: 1.085
+
+Problem: IC-T15-2-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 4991
+  Total running time: 0.375
+
+Problem: IC-T15-3-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 9987
+  Total running time: 0.909
+
+Problem: IC-T15-3-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 5167
+  Total running time: 0.36
+
+Problem: IC-T16-1-first-stage.txt
+
+  The number of columns: 1000
+  The number of columns deleted: 2
+  The number of remaining columns: 998
+
+  Number of lsm: 7847
+  Total running time: 4.451
+
+Problem: IC-T16-1-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 0
+  The number of remaining columns: 500
+
+  Number of lsm: 1584
+  Total running time: 0.503
+
+Problem: IC-T16-2-first-stage.txt
+
+  The number of columns: 1000
+  The number of columns deleted: 3
+  The number of remaining columns: 997
+
+  Number of lsm: 8514
+  Total running time: 4.911
+
+Problem: IC-T16-2-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 0
+  The number of remaining columns: 500
+
+  Number of lsm: 1131
+  Total running time: 0.389
+
+Problem: IC-T16-3-first-stage.txt
+
+  The number of columns: 1000
+  The number of columns deleted: 0
+  The number of remaining columns: 1000
+
+  Number of lsm: 8553
+  Total running time: 4.855
+
+Problem: IC-T16-3-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 0
+  The number of remaining columns: 500
+
+  Number of lsm: 1468
+  Total running time: 0.502
+
+Problem: IC-K1-first-stage.txt
+
+  The number of columns: 1000
+  The number of columns deleted: 989
+  The number of remaining columns: 11
+
+  Number of lsm: 117649
+  Total running time: 264.213
+
+Problem: IC-K1-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 93
+  The number of remaining columns: 7
+
+  Number of lsm: 480
+  Total running time: 0.001
+
+Problem: IC-K2-first-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 490
+  The number of remaining columns: 10
+
+  Number of lsm: 47334
+  Total running time: 5.9
+
+Problem: IC-K2-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 485
+  The number of remaining columns: 15
+
+  Number of lsm: 17596
+  Total running time: 1.043
+
+Problem: IC-K3-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 290
+  The number of remaining columns: 10
+
+  Number of lsm: 15092
+  Total running time: 0.313
+
+Problem: IC-K3-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 488
+  The number of remaining columns: 12
+
+  Number of lsm: 11000
+  Total running time: 0.082
+
+Problem: IC-K4-first-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 490
+  The number of remaining columns: 10
+
+  Number of lsm: 47334
+  Total running time: 5.696
+
+Problem: IC-K4-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 485
+  The number of remaining columns: 15
+
+  Number of lsm: 17596
+  Total running time: 1.065
+
+Problem: IC-K5-first-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 490
+  The number of remaining columns: 10
+
+  Number of lsm: 84035
+  Total running time: 46.083
+
+Problem: IC-K5-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 488
+  The number of remaining columns: 12
+
+  Number of lsm: 17472
+  Total running time: 0.426
+
+Problem: IC-K6-first-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 437
+  The number of remaining columns: 63
+
+  Number of lsm: 6483
+  Total running time: 0.593
+
+Problem: IC-K6-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 450
+  The number of remaining columns: 50
+
+  Number of lsm: 6429
+  Total running time: 0.53
+
+Problem: IC-K7-first-stage.txt
+
+  The number of columns: 1000
+  The number of columns deleted: 974
+  The number of remaining columns: 26
+
+  Number of lsm: 78721
+  Total running time: 58.013
+
+Problem: IC-K7-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 414
+  The number of remaining columns: 86
+
+  Number of lsm: 20556
+  Total running time: 5.807
+
+Problem: IC-K8-first-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 437
+  The number of remaining columns: 63
+
+  Number of lsm: 35001
+  Total running time: 22.061
+
+Problem: IC-K8-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 405
+  The number of remaining columns: 95
+
+  Number of lsm: 37349
+  Total running time: 25.496
+
+Problem: IC-K9-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 248
+  The number of remaining columns: 52
+
+  Number of lsm: 19110
+  Total running time: 3.922
+
+Problem: IC-K9-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 453
+  The number of remaining columns: 47
+
+  Number of lsm: 9902
+  Total running time: 0.806
+
+Problem: IC-K10-first-stage.txt
+
+  The number of columns: 1000
+  The number of columns deleted: 988
+  The number of remaining columns: 12
+
+  Number of lsm: 823543
+  Total running time: 1149.46
+
+Problem: IC-K10-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 489
+  The number of remaining columns: 11
+
+  Number of lsm: 57600
+  Total running time: 2.312
+

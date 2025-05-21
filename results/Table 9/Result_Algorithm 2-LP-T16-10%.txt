@@ -1,0 +1,156 @@
+Problem: IC-T16-1-first-stage-negative-5.txt
+
+  The number of columns: 1000
+  The number of columns deleted: 2
+  The number of remaining columns: 998
+  Number of lsm generated: 1092
+  Runtime for pre-processing: 8.029
+  Runtime for processing nonpositive columns: 0.016
+  Runtime for filtering monoids out of bound: 0
+  Runtime for filtering non-lsm monoids: 0
+  Runtime for processing nonnegative columns: 1.113
+  Total runtime for column by column: 9.159
+
+Problem: IC-T16-1-second-stage-negative-5.txt
+
+  The number of columns: 500
+  The number of columns deleted: 0
+  The number of remaining columns: 500
+  Number of lsm generated: 546
+  Runtime for pre-processing: 3.068
+  Runtime for processing nonpositive columns: 0.007
+  Runtime for filtering monoids out of bound: 0
+  Runtime for filtering non-lsm monoids: 0
+  Runtime for processing nonnegative columns: 0.325
+  Total runtime for column by column: 3.401
+
+Problem: IC-T16-2-first-stage-negative-5.txt
+
+  The number of columns: 1000
+  The number of columns deleted: 3
+  The number of remaining columns: 997
+  Number of lsm generated: 1098
+  Runtime for pre-processing: 7.539
+  Runtime for processing nonpositive columns: 0.013
+  Runtime for filtering monoids out of bound: 0
+  Runtime for filtering non-lsm monoids: 0
+  Runtime for processing nonnegative columns: 1.111
+  Total runtime for column by column: 8.665
+
+Problem: IC-T16-2-second-stage-negative-5.txt
+
+  The number of columns: 500
+  The number of columns deleted: 0
+  The number of remaining columns: 500
+  Number of lsm generated: 530
+  Runtime for pre-processing: 3.322
+  Runtime for processing nonpositive columns: 0.011
+  Runtime for filtering monoids out of bound: 0
+  Runtime for filtering non-lsm monoids: 0
+  Runtime for processing nonnegative columns: 0.319
+  Total runtime for column by column: 3.652
+
+Problem: IC-T16-3-first-stage-negative-5.txt
+
+  The number of columns: 1000
+  The number of columns deleted: 0
+  The number of remaining columns: 1000
+  Number of lsm generated: 1120
+  Runtime for pre-processing: 7.89
+  Runtime for processing nonpositive columns: 0.016
+  Runtime for filtering monoids out of bound: 0
+  Runtime for filtering non-lsm monoids: 0
+  Runtime for processing nonnegative columns: 1.114
+  Total runtime for column by column: 9.022
+
+Problem: IC-T16-3-second-stage-negative-5.txt
+
+  The number of columns: 500
+  The number of columns deleted: 0
+  The number of remaining columns: 500
+  Number of lsm generated: 540
+  Runtime for pre-processing: 3.034
+  Runtime for processing nonpositive columns: 0.007
+  Runtime for filtering monoids out of bound: 0
+  Runtime for filtering non-lsm monoids: 0
+  Runtime for processing nonnegative columns: 0.321
+  Total runtime for column by column: 3.363
+
+Problem: IC-T16-1-first-stage-negative-10.txt
+
+  The number of columns: 1000
+  The number of columns deleted: 1
+  The number of remaining columns: 999
+  Number of lsm generated: 1102
+  Runtime for pre-processing: 10.047
+  Runtime for processing nonpositive columns: 0.04
+  Runtime for filtering monoids out of bound: 0
+  Runtime for filtering non-lsm monoids: 0
+  Runtime for processing nonnegative columns: 1.165
+  Total runtime for column by column: 11.253
+
+Problem: IC-T16-1-second-stage-negative-10.txt
+
+  The number of columns: 500
+  The number of columns deleted: 2
+  The number of remaining columns: 498
+  Number of lsm generated: 557
+  Runtime for pre-processing: 4.595
+  Runtime for processing nonpositive columns: 0.021
+  Runtime for filtering monoids out of bound: 0
+  Runtime for filtering non-lsm monoids: 0
+  Runtime for processing nonnegative columns: 0.327
+  Total runtime for column by column: 4.943
+
+Problem: IC-T16-2-first-stage-negative-10.txt
+
+  The number of columns: 1000
+  The number of columns deleted: 3
+  The number of remaining columns: 997
+  Number of lsm generated: 1120
+  Runtime for pre-processing: 10.453
+  Runtime for processing nonpositive columns: 0.053
+  Runtime for filtering monoids out of bound: 0
+  Runtime for filtering non-lsm monoids: 0
+  Runtime for processing nonnegative columns: 1.156
+  Total runtime for column by column: 11.664
+
+Problem: IC-T16-2-second-stage-negative-10.txt
+
+  The number of columns: 500
+  The number of columns deleted: 0
+  The number of remaining columns: 500
+  Number of lsm generated: 536
+  Runtime for pre-processing: 4.242
+  Runtime for processing nonpositive columns: 0.017
+  Runtime for filtering monoids out of bound: 0
+  Runtime for filtering non-lsm monoids: 0
+  Runtime for processing nonnegative columns: 0.323
+  Total runtime for column by column: 4.583
+
+Problem: IC-T16-3-first-stage-negative-10.txt
+
+  The number of columns: 1000
+  The number of columns deleted: 0
+  The number of remaining columns: 1000
+  Number of lsm generated: 1138
+  Runtime for pre-processing: 10.445
+  Runtime for processing nonpositive columns: 0.047
+  Runtime for filtering monoids out of bound: 0
+  Runtime for filtering non-lsm monoids: 0
+  Runtime for processing nonnegative columns: 1.198
+  Total runtime for column by column: 11.692
+
+Problem: IC-T16-3-second-stage-negative-10.txt
+
+  The number of columns: 500
+  The number of columns deleted: 1
+  The number of remaining columns: 499
+  Number of lsm generated: 548
+  Runtime for pre-processing: 4.616
+  Runtime for processing nonpositive columns: 0.024
+  Runtime for filtering monoids out of bound: 0
+  Runtime for filtering non-lsm monoids: 0
+  Runtime for processing nonnegative columns: 0.328
+  Total runtime for column by column: 4.968
+

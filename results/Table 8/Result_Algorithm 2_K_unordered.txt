@@ -1,0 +1,229 @@
+Problem: IC-K1-first-stage-negative-5.txt
+
+  z(0) != 0: CPXMIP_UNBOUNDED!
+
+Problem: IC-K1-second-stage-negative-5.txt
+
+  The number of columns: 100
+  The number of columns deleted: 89
+  The number of remaining columns: 11
+  Number of lsm generated: 1769
+  Runtime for pre-processing: 0.312
+  Runtime for processing nonpositive columns: 0.002
+  Runtime for filtering large monoids: 0
+  Runtime for filtering dominated monoids: 0
+  Runtime for processing nonnegative columns: 0.032
+  Total runtime for column by column: 0.347
+
+Problem: IC-K2-first-stage-negative-5.txt
+
+  The number of columns: 500
+  The number of columns deleted: 480
+  The number of remaining columns: 20
+  Number of lsm generated: 329148
+  Runtime for pre-processing: 6.214
+  Runtime for processing nonpositive columns: 4.112
+  Runtime for filtering large monoids: 0.328
+  Runtime for filtering dominated monoids: 3.575
+  Runtime for processing nonnegative columns: 1190.95
+  Total runtime for column by column: 1201.29
+
+Problem: IC-K2-second-stage-negative-5.txt
+
+  The number of columns: 500
+  The number of columns deleted: 475
+  The number of remaining columns: 25
+  Number of lsm generated: 104947
+  Runtime for pre-processing: 6.46
+  Runtime for processing nonpositive columns: 0.986
+  Runtime for filtering large monoids: 0.107
+  Runtime for filtering dominated monoids: 0.818
+  Runtime for processing nonnegative columns: 119.537
+  Total runtime for column by column: 126.984
+
+Problem: IC-K3-first-stage-negative-5.txt
+
+  The number of columns: 300
+  The number of columns deleted: 281
+  The number of remaining columns: 19
+  Number of lsm generated: 22529
+  Runtime for pre-processing: 2.041
+  Runtime for processing nonpositive columns: 0.004
+  Runtime for filtering large monoids: 0
+  Runtime for filtering dominated monoids: 0
+  Runtime for processing nonnegative columns: 1.264
+  Total runtime for column by column: 3.31
+
+Problem: IC-K3-second-stage-negative-5.txt
+
+  The number of columns: 500
+  The number of columns deleted: 474
+  The number of remaining columns: 26
+  Number of lsm generated: 42372
+  Runtime for pre-processing: 6.81
+  Runtime for processing nonpositive columns: 82.845
+  Runtime for filtering large monoids: 24.005
+  Runtime for filtering dominated monoids: 57.076
+  Runtime for processing nonnegative columns: 8.653
+  Total runtime for column by column: 98.309
+
+Problem: IC-K4-first-stage-negative-5.txt
+
+  The number of columns: 500
+  The number of columns deleted: 480
+  The number of remaining columns: 20
+  Number of lsm generated: 329148
+  Runtime for pre-processing: 6.249
+  Runtime for processing nonpositive columns: 4.021
+  Runtime for filtering large monoids: 0.332
+  Runtime for filtering dominated monoids: 3.483
+  Runtime for processing nonnegative columns: 1194.69
+  Total runtime for column by column: 1204.97
+
+Problem: IC-K4-second-stage-negative-5.txt
+
+  The number of columns: 500
+  The number of columns deleted: 475
+  The number of remaining columns: 25
+  Number of lsm generated: 104947
+  Runtime for pre-processing: 6.324
+  Runtime for processing nonpositive columns: 0.992
+  Runtime for filtering large monoids: 0.107
+  Runtime for filtering dominated monoids: 0.818
+  Runtime for processing nonnegative columns: 117.532
+  Total runtime for column by column: 124.849
+
+Problem: IC-K5-first-stage-negative-5.txt
+
+  The number of columns: 500
+  The number of columns deleted: 478
+  The number of remaining columns: 22
+  Number of lsm generated: 411070
+  Runtime for pre-processing: 7.187
+  Runtime for processing nonpositive columns: 5007.4
+  Runtime for filtering large monoids: 866.595
+  Runtime for filtering dominated monoids: 4058.64
+  Runtime for processing nonnegative columns: 307.523
+  Total runtime for column by column: 5322.12
+
+Problem: IC-K5-second-stage-negative-5.txt
+
+  The number of columns: 500
+  The number of columns deleted: 471
+  The number of remaining columns: 29
+  Number of lsm generated: 38387
+  Runtime for pre-processing: 7.303
+  Runtime for processing nonpositive columns: 15.434
+  Runtime for filtering large monoids: 2.237
+  Runtime for filtering dominated monoids: 12.628
+  Runtime for processing nonnegative columns: 13.293
+  Total runtime for column by column: 36.031
+
+Problem: IC-K6-first-stage-negative-5.txt
+
+  The number of columns: 500
+  The number of columns deleted: 448
+  The number of remaining columns: 52
+  Number of lsm generated: 7827
+  Runtime for pre-processing: 5.746
+  Runtime for processing nonpositive columns: 0.079
+  Runtime for filtering large monoids: 0.003
+  Runtime for filtering dominated monoids: 0.058
+  Runtime for processing nonnegative columns: 1.605
+  Total runtime for column by column: 7.43
+
+Problem: IC-K6-second-stage-negative-5.txt
+
+  The number of columns: 500
+  The number of columns deleted: 440
+  The number of remaining columns: 60
+  Number of lsm generated: 5768
+  Runtime for pre-processing: 6.291
+  Runtime for processing nonpositive columns: 0.032
+  Runtime for filtering large monoids: 0.001
+  Runtime for filtering dominated monoids: 0.02
+  Runtime for processing nonnegative columns: 0.859
+  Total runtime for column by column: 7.183
+
+Problem: IC-K7-second-stage-negative-5.txt
+
+  The number of columns: 500
+  The number of columns deleted: 416
+  The number of remaining columns: 84
+  Number of lsm generated: 16741
+  Runtime for pre-processing: 6.207
+  Runtime for processing nonpositive columns: 0.851
+  Runtime for filtering large monoids: 0.037
+  Runtime for filtering dominated monoids: 0.777
+  Runtime for processing nonnegative columns: 11.003
+  Total runtime for column by column: 18.062
+
+Problem: IC-K8-first-stage-negative-5.txt
+
+  The number of columns: 500
+  The number of columns deleted: 445
+  The number of remaining columns: 55
+  Number of lsm generated: 34053
+  Runtime for pre-processing: 5.482
+  Runtime for processing nonpositive columns: 0.041
+  Runtime for filtering large monoids: 0.003
+  Runtime for filtering dominated monoids: 0.026
+  Runtime for processing nonnegative columns: 35.222
+  Total runtime for column by column: 40.746
+
+Problem: IC-K8-second-stage-negative-5.txt
+
+  The number of columns: 500
+  The number of columns deleted: 409
+  The number of remaining columns: 91
+  Number of lsm generated: 28820
+  Runtime for pre-processing: 6.256
+  Runtime for processing nonpositive columns: 1.647
+  Runtime for filtering large monoids: 0.057
+  Runtime for filtering dominated monoids: 1.535
+  Runtime for processing nonnegative columns: 27.125
+  Total runtime for column by column: 35.028
+
+Problem: IC-K9-first-stage-negative-5.txt
+
+  The number of columns: 300
+  The number of columns deleted: 234
+  The number of remaining columns: 66
+  Number of lsm generated: 9698
+  Runtime for pre-processing: 2.245
+  Runtime for processing nonpositive columns: 0.006
+  Runtime for filtering large monoids: 0
+  Runtime for filtering dominated monoids: 0.001
+  Runtime for processing nonnegative columns: 1.889
+  Total runtime for column by column: 4.14
+
+Problem: IC-K9-second-stage-negative-5.txt
+
+  The number of columns: 500
+  The number of columns deleted: 437
+  The number of remaining columns: 63
+  Number of lsm generated: 9496
+  Runtime for pre-processing: 5.422
+  Runtime for processing nonpositive columns: 0.028
+  Runtime for filtering large monoids: 0
+  Runtime for filtering dominated monoids: 0.019
+  Runtime for processing nonnegative columns: 2.031
+  Total runtime for column by column: 7.481
+
+Problem: IC-K10-first-stage-negative-5.txt
+
+  z(0) != 0: CPXMIP_UNBOUNDED!
+
+Problem: IC-K10-second-stage-negative-5.txt
+
+  The number of columns: 500
+  The number of columns deleted: 481
+  The number of remaining columns: 19
+  Number of lsm generated: 1065868
+  Runtime for pre-processing: 6.481
+  Runtime for processing nonpositive columns: 0.721
+  Runtime for filtering large monoids: 0.249
+  Runtime for filtering dominated monoids: 0.435
+  Runtime for processing nonnegative columns: 17483.3
+  Total runtime for column by column: 17490.5
+

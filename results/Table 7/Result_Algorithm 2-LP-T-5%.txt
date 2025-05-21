@@ -1,0 +1,576 @@
+Problem: IC-T1-1-first-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 8
+  Number of monoid elements left: 8
+
+Problem: IC-T1-1-second-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 8
+  Number of monoid elements left: 6
+
+Problem: IC-T1-2-first-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 12
+  Number of monoid elements left: 8
+
+Problem: IC-T1-2-second-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 12
+  Number of monoid elements left: 10
+
+Problem: IC-T1-3-first-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 8
+  Number of monoid elements left: 6
+
+Problem: IC-T1-3-second-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 4
+  Number of monoid elements left: 4
+
+Problem: IC-T2-1-first-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 8
+  Number of monoid elements left: 8
+
+Problem: IC-T2-1-second-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 14
+  Number of monoid elements left: 9
+
+Problem: IC-T2-2-first-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 8
+  Number of monoid elements left: 5
+
+Problem: IC-T2-2-second-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 6
+  Number of monoid elements left: 4
+
+Problem: IC-T2-3-first-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 12
+  Number of monoid elements left: 7
+
+Problem: IC-T2-3-second-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 10
+  Number of monoid elements left: 9
+
+Problem: IC-T3-1-first-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 6
+  Number of monoid elements left: 4
+
+Problem: IC-T3-1-second-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 6
+  Number of monoid elements left: 6
+
+Problem: IC-T3-2-first-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 4
+  Number of monoid elements left: 4
+
+Problem: IC-T3-2-second-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 8
+  Number of monoid elements left: 6
+
+Problem: IC-T3-3-first-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 6
+  Number of monoid elements left: 4
+
+Problem: IC-T3-3-second-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 4
+  Number of monoid elements left: 3
+
+Problem: IC-T4-1-first-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 8
+  Number of monoid elements left: 5
+
+Problem: IC-T4-1-second-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 14
+  Number of monoid elements left: 8
+
+Problem: IC-T4-2-first-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 12
+  Number of monoid elements left: 8
+
+Problem: IC-T4-2-second-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 8
+  Number of monoid elements left: 6
+
+Problem: IC-T4-3-first-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 12
+  Number of monoid elements left: 7
+
+Problem: IC-T4-3-second-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 6
+  Number of monoid elements left: 6
+
+Problem: IC-T5-1-first-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 12
+  Number of monoid elements left: 7
+
+Problem: IC-T5-1-second-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 8
+  Number of monoid elements left: 5
+
+Problem: IC-T5-2-first-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 14
+  Number of monoid elements left: 8
+
+Problem: IC-T5-2-second-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 14
+  Number of monoid elements left: 8
+
+Problem: IC-T5-3-first-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 12
+  Number of monoid elements left: 7
+
+Problem: IC-T5-3-second-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 10
+  Number of monoid elements left: 6
+
+Problem: IC-T6-1-first-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 6
+  Number of monoid elements left: 4
+
+Problem: IC-T6-1-second-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 16
+  Number of monoid elements left: 9
+
+Problem: IC-T6-2-first-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 6
+  Number of monoid elements left: 4
+
+Problem: IC-T6-2-second-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 14
+  Number of monoid elements left: 8
+
+Problem: IC-T6-3-first-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 14
+  Number of monoid elements left: 8
+
+Problem: IC-T6-3-second-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 18
+  Number of monoid elements left: 10
+
+Problem: IC-T7-1-first-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 26
+  Number of monoid elements left: 14
+
+Problem: IC-T7-1-second-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 38
+  Number of monoid elements left: 21
+
+Problem: IC-T7-2-first-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 34
+  Number of monoid elements left: 18
+
+Problem: IC-T7-2-second-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 34
+  Number of monoid elements left: 17
+
+Problem: IC-T7-3-first-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 32
+  Number of monoid elements left: 17
+
+Problem: IC-T7-3-second-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 24
+  Number of monoid elements left: 13
+
+Problem: IC-T8-1-first-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 18
+  Number of monoid elements left: 10
+
+Problem: IC-T8-1-second-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 26
+  Number of monoid elements left: 14
+
+Problem: IC-T8-2-first-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 24
+  Number of monoid elements left: 13
+
+Problem: IC-T8-2-second-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 16
+  Number of monoid elements left: 9
+
+Problem: IC-T8-3-first-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 26
+  Number of monoid elements left: 14
+
+Problem: IC-T8-3-second-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 18
+  Number of monoid elements left: 10
+
+Problem: IC-T9-1-first-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 10
+  Number of monoid elements left: 6
+
+Problem: IC-T9-1-second-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 8
+  Number of monoid elements left: 5
+
+Problem: IC-T9-2-first-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 14
+  Number of monoid elements left: 8
+
+Problem: IC-T9-2-second-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 28
+  Number of monoid elements left: 15
+
+Problem: IC-T9-3-first-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 24
+  Number of monoid elements left: 13
+
+Problem: IC-T9-3-second-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 28
+  Number of monoid elements left: 15
+
+Problem: IC-T10-1-first-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 44
+  Number of monoid elements left: 24
+
+Problem: IC-T10-1-second-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 46
+  Number of monoid elements left: 25
+
+Problem: IC-T10-2-first-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 76
+  Number of monoid elements left: 39
+
+Problem: IC-T10-2-second-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 64
+  Number of monoid elements left: 34
+
+Problem: IC-T10-3-first-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 84
+  Number of monoid elements left: 44
+
+Problem: IC-T10-3-second-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 58
+  Number of monoid elements left: 31
+
+Problem: IC-T11-1-first-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 38
+  Number of monoid elements left: 20
+
+Problem: IC-T11-1-second-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 36
+  Number of monoid elements left: 19
+
+Problem: IC-T11-2-first-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 28
+  Number of monoid elements left: 15
+
+Problem: IC-T11-2-second-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 26
+  Number of monoid elements left: 14
+
+Problem: IC-T11-3-first-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 32
+  Number of monoid elements left: 17
+
+Problem: IC-T11-3-second-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 38
+  Number of monoid elements left: 20
+
+Problem: IC-T12-1-first-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 40
+  Number of monoid elements left: 21
+
+Problem: IC-T12-1-second-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 14
+  Number of monoid elements left: 8
+
+Problem: IC-T12-2-first-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 16
+  Number of monoid elements left: 9
+
+Problem: IC-T12-2-second-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 16
+  Number of monoid elements left: 9
+
+Problem: IC-T12-3-first-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 34
+  Number of monoid elements left: 18
+
+Problem: IC-T12-3-second-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 42
+  Number of monoid elements left: 22
+
+Problem: IC-T13-1-first-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 6
+  Number of monoid elements left: 5
+
+Problem: IC-T13-1-second-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 14
+  Number of monoid elements left: 8
+
+Problem: IC-T13-2-first-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 6
+  Number of monoid elements left: 5
+
+Problem: IC-T13-2-second-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 18
+  Number of monoid elements left: 11
+
+Problem: IC-T13-3-first-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 4
+  Number of monoid elements left: 3
+
+Problem: IC-T13-3-second-stage-negative-5.txt
+
+  The number of columns: 50
+  Number of monoid elements generated: 14
+  Number of monoid elements left: 10
+
+Problem: IC-T14-1-first-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 6
+  Number of monoid elements left: 4
+
+Problem: IC-T14-1-second-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 14
+  Number of monoid elements left: 8
+
+Problem: IC-T14-2-first-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 6
+  Number of monoid elements left: 4
+
+Problem: IC-T14-2-second-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 10
+  Number of monoid elements left: 8
+
+Problem: IC-T14-3-first-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 10
+  Number of monoid elements left: 6
+
+Problem: IC-T14-3-second-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 10
+  Number of monoid elements left: 6
+
+Problem: IC-T15-1-first-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 36
+  Number of monoid elements left: 19
+
+Problem: IC-T15-1-second-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 34
+  Number of monoid elements left: 19
+
+Problem: IC-T15-2-first-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 16
+  Number of monoid elements left: 9
+
+Problem: IC-T15-2-second-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 20
+  Number of monoid elements left: 12
+
+Problem: IC-T15-3-first-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 42
+  Number of monoid elements left: 21
+
+Problem: IC-T15-3-second-stage-negative-5.txt
+
+  The number of columns: 200
+  Number of monoid elements generated: 26
+  Number of monoid elements left: 14
+
+Problem: IC-T16-1-first-stage-negative-5.txt
+
+  The number of columns: 1000
+  Number of monoid elements generated: 98
+  Number of monoid elements left: 50
+
+Problem: IC-T16-1-second-stage-negative-5.txt
+
+  The number of columns: 500
+  Number of monoid elements generated: 48
+  Number of monoid elements left: 25
+
+Problem: IC-T16-2-first-stage-negative-5.txt
+
+  The number of columns: 1000
+  Number of monoid elements generated: 86
+  Number of monoid elements left: 44
+
+Problem: IC-T16-2-second-stage-negative-5.txt
+
+  The number of columns: 500
+  Number of monoid elements generated: 66
+  Number of monoid elements left: 34
+
+Problem: IC-T16-3-first-stage-negative-5.txt
+
+  The number of columns: 1000
+  Number of monoid elements generated: 108
+  Number of monoid elements left: 54
+
+Problem: IC-T16-3-second-stage-negative-5.txt
+
+  The number of columns: 500
+  Number of monoid elements generated: 48
+  Number of monoid elements left: 26
+

@@ -1,0 +1,1622 @@
+Problem: IC-T1-1-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 1
+  The number of remaining columns: 49
+
+  Number of lsm: 15481
+  Total running time: 0.793
+
+  Check the results by enumeration: 
+    Number of monoids generated: 20481
+    Number of lsm generated: 15481
+    Total running time: 1.783
+    Results checked.
+
+Problem: IC-T1-1-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 8
+  The number of remaining columns: 42
+
+  Number of lsm: 56614
+  Total running time: 9.038
+
+  Check the results by enumeration: 
+    Number of monoids generated: 85303
+    Number of lsm generated: 56614
+    Total running time: 26.996
+    Results checked.
+
+Problem: IC-T1-2-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 16
+  The number of remaining columns: 34
+
+  Number of lsm: 21037
+  Total running time: 1.177
+
+  Check the results by enumeration: 
+    Number of monoids generated: 73770
+    Number of lsm generated: 21037
+    Total running time: 6.19
+    Results checked.
+
+Problem: IC-T1-2-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 3
+  The number of remaining columns: 47
+
+  Number of lsm: 65051
+  Total running time: 13.716
+
+  Check the results by enumeration: 
+    Number of monoids generated: 78412
+    Number of lsm generated: 65051
+    Total running time: 29.218
+    Results checked.
+
+Problem: IC-T1-3-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 20063
+  Total running time: 1.188
+
+  Check the results by enumeration: 
+    Number of monoids generated: 21464
+    Number of lsm generated: 20063
+    Total running time: 2.406
+    Results checked.
+
+Problem: IC-T1-3-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 1
+  The number of remaining columns: 49
+
+  Number of lsm: 4470
+  Total running time: 0.085
+
+  Check the results by enumeration: 
+    Number of monoids generated: 4723
+    Number of lsm generated: 4470
+    Total running time: 0.122
+    Results checked.
+
+Problem: IC-T2-1-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 1101
+  Total running time: 0.011
+
+  Check the results by enumeration: 
+    Number of monoids generated: 1131
+    Number of lsm generated: 1101
+    Total running time: 0.012
+    Results checked.
+
+Problem: IC-T2-1-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 2
+  The number of remaining columns: 48
+
+  Number of lsm: 1227
+  Total running time: 0.009
+
+  Check the results by enumeration: 
+    Number of monoids generated: 1322
+    Number of lsm generated: 1227
+    Total running time: 0.014
+    Results checked.
+
+Problem: IC-T2-2-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 862
+  Total running time: 0.007
+
+  Check the results by enumeration: 
+    Number of monoids generated: 874
+    Number of lsm generated: 862
+    Total running time: 0.009
+    Results checked.
+
+Problem: IC-T2-2-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 1236
+  Total running time: 0.01
+
+  Check the results by enumeration: 
+    Number of monoids generated: 1244
+    Number of lsm generated: 1236
+    Total running time: 0.015
+    Results checked.
+
+Problem: IC-T2-3-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 1149
+  Total running time: 0.011
+
+  Check the results by enumeration: 
+    Number of monoids generated: 1217
+    Number of lsm generated: 1149
+    Total running time: 0.014
+    Results checked.
+
+Problem: IC-T2-3-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 1759
+  Total running time: 0.019
+
+  Check the results by enumeration: 
+    Number of monoids generated: 1807
+    Number of lsm generated: 1759
+    Total running time: 0.024
+    Results checked.
+
+Problem: IC-T3-1-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 249
+  Total running time: 0.002
+
+  Check the results by enumeration: 
+    Number of monoids generated: 250
+    Number of lsm generated: 249
+    Total running time: 0.002
+    Results checked.
+
+Problem: IC-T3-1-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 318
+  Total running time: 0.002
+
+  Check the results by enumeration: 
+    Number of monoids generated: 320
+    Number of lsm generated: 318
+    Total running time: 0.003
+    Results checked.
+
+Problem: IC-T3-2-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 1
+  The number of remaining columns: 49
+
+  Number of lsm: 202
+  Total running time: 0.002
+
+  Check the results by enumeration: 
+    Number of monoids generated: 212
+    Number of lsm generated: 202
+    Total running time: 0.002
+    Results checked.
+
+Problem: IC-T3-2-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 372
+  Total running time: 0.003
+
+  Check the results by enumeration: 
+    Number of monoids generated: 372
+    Number of lsm generated: 372
+    Total running time: 0.003
+    Results checked.
+
+Problem: IC-T3-3-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 231
+  Total running time: 0.002
+
+  Check the results by enumeration: 
+    Number of monoids generated: 231
+    Number of lsm generated: 231
+    Total running time: 0.002
+    Results checked.
+
+Problem: IC-T3-3-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 547
+  Total running time: 0.004
+
+  Check the results by enumeration: 
+    Number of monoids generated: 550
+    Number of lsm generated: 547
+    Total running time: 0.004
+    Results checked.
+
+Problem: IC-T4-1-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 2341
+  Total running time: 0.064
+
+  Check the results by enumeration: 
+    Number of monoids generated: 2341
+    Number of lsm generated: 2341
+    Total running time: 0.103
+    Results checked.
+
+Problem: IC-T4-1-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 3469
+  Total running time: 0.111
+
+  Check the results by enumeration: 
+    Number of monoids generated: 3471
+    Number of lsm generated: 3469
+    Total running time: 0.203
+    Results checked.
+
+Problem: IC-T4-2-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 2129
+  Total running time: 0.055
+
+  Check the results by enumeration: 
+    Number of monoids generated: 2129
+    Number of lsm generated: 2129
+    Total running time: 0.105
+    Results checked.
+
+Problem: IC-T4-2-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 3164
+  Total running time: 0.092
+
+  Check the results by enumeration: 
+    Number of monoids generated: 3164
+    Number of lsm generated: 3164
+    Total running time: 0.151
+    Results checked.
+
+Problem: IC-T4-3-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 3105
+  Total running time: 0.083
+
+  Check the results by enumeration: 
+    Number of monoids generated: 3105
+    Number of lsm generated: 3105
+    Total running time: 0.141
+    Results checked.
+
+Problem: IC-T4-3-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 4905
+  Total running time: 0.146
+
+  Check the results by enumeration: 
+    Number of monoids generated: 4905
+    Number of lsm generated: 4905
+    Total running time: 0.266
+    Results checked.
+
+Problem: IC-T5-1-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 363
+  Total running time: 0.008
+
+  Check the results by enumeration: 
+    Number of monoids generated: 363
+    Number of lsm generated: 363
+    Total running time: 0.014
+    Results checked.
+
+Problem: IC-T5-1-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 513
+  Total running time: 0.011
+
+  Check the results by enumeration: 
+    Number of monoids generated: 513
+    Number of lsm generated: 513
+    Total running time: 0.031
+    Results checked.
+
+Problem: IC-T5-2-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 366
+  Total running time: 0.01
+
+  Check the results by enumeration: 
+    Number of monoids generated: 366
+    Number of lsm generated: 366
+    Total running time: 0.015
+    Results checked.
+
+Problem: IC-T5-2-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 516
+  Total running time: 0.011
+
+  Check the results by enumeration: 
+    Number of monoids generated: 516
+    Number of lsm generated: 516
+    Total running time: 0.017
+    Results checked.
+
+Problem: IC-T5-3-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 285
+  Total running time: 0.009
+
+  Check the results by enumeration: 
+    Number of monoids generated: 285
+    Number of lsm generated: 285
+    Total running time: 0.012
+    Results checked.
+
+Problem: IC-T5-3-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 321
+  Total running time: 0.007
+
+  Check the results by enumeration: 
+    Number of monoids generated: 321
+    Number of lsm generated: 321
+    Total running time: 0.015
+    Results checked.
+
+Problem: IC-T6-1-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 134
+  Total running time: 0.003
+
+  Check the results by enumeration: 
+    Number of monoids generated: 134
+    Number of lsm generated: 134
+    Total running time: 0.007
+    Results checked.
+
+Problem: IC-T6-1-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 139
+  Total running time: 0.004
+
+  Check the results by enumeration: 
+    Number of monoids generated: 139
+    Number of lsm generated: 139
+    Total running time: 0.007
+    Results checked.
+
+Problem: IC-T6-2-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 143
+  Total running time: 0.003
+
+  Check the results by enumeration: 
+    Number of monoids generated: 143
+    Number of lsm generated: 143
+    Total running time: 0.006
+    Results checked.
+
+Problem: IC-T6-2-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 207
+  Total running time: 0.006
+
+  Check the results by enumeration: 
+    Number of monoids generated: 207
+    Number of lsm generated: 207
+    Total running time: 0.009
+    Results checked.
+
+Problem: IC-T6-3-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 141
+  Total running time: 0.004
+
+  Check the results by enumeration: 
+    Number of monoids generated: 141
+    Number of lsm generated: 141
+    Total running time: 0.006
+    Results checked.
+
+Problem: IC-T6-3-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 224
+  Total running time: 0.006
+
+  Check the results by enumeration: 
+    Number of monoids generated: 224
+    Number of lsm generated: 224
+    Total running time: 0.008
+    Results checked.
+
+Problem: IC-T7-1-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 1
+  The number of remaining columns: 199
+
+  Number of lsm: 853
+  Total running time: 0.052
+
+  Check the results by enumeration: 
+    Number of monoids generated: 856
+    Number of lsm generated: 853
+    Total running time: 0.194
+    Results checked.
+
+Problem: IC-T7-1-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 1033
+  Total running time: 0.063
+
+  Check the results by enumeration: 
+    Number of monoids generated: 1033
+    Number of lsm generated: 1033
+    Total running time: 0.228
+    Results checked.
+
+Problem: IC-T7-2-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 872
+  Total running time: 0.057
+
+  Check the results by enumeration: 
+    Number of monoids generated: 872
+    Number of lsm generated: 872
+    Total running time: 0.206
+    Results checked.
+
+Problem: IC-T7-2-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 1188
+  Total running time: 0.069
+
+  Check the results by enumeration: 
+    Number of monoids generated: 1188
+    Number of lsm generated: 1188
+    Total running time: 0.25
+    Results checked.
+
+Problem: IC-T7-3-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 932
+  Total running time: 0.059
+
+  Check the results by enumeration: 
+    Number of monoids generated: 932
+    Number of lsm generated: 932
+    Total running time: 0.216
+    Results checked.
+
+Problem: IC-T7-3-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 743
+  Total running time: 0.054
+
+  Check the results by enumeration: 
+    Number of monoids generated: 743
+    Number of lsm generated: 743
+    Total running time: 0.162
+    Results checked.
+
+Problem: IC-T8-1-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 252
+  Total running time: 0.019
+
+  Check the results by enumeration: 
+    Number of monoids generated: 252
+    Number of lsm generated: 252
+    Total running time: 0.066
+    Results checked.
+
+Problem: IC-T8-1-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 276
+  Total running time: 0.02
+
+  Check the results by enumeration: 
+    Number of monoids generated: 276
+    Number of lsm generated: 276
+    Total running time: 0.073
+    Results checked.
+
+Problem: IC-T8-2-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 253
+  Total running time: 0.019
+
+  Check the results by enumeration: 
+    Number of monoids generated: 253
+    Number of lsm generated: 253
+    Total running time: 0.06
+    Results checked.
+
+Problem: IC-T8-2-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 290
+  Total running time: 0.021
+
+  Check the results by enumeration: 
+    Number of monoids generated: 290
+    Number of lsm generated: 290
+    Total running time: 0.059
+    Results checked.
+
+Problem: IC-T8-3-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 1
+  The number of remaining columns: 199
+
+  Number of lsm: 246
+  Total running time: 0.019
+
+  Check the results by enumeration: 
+    Number of monoids generated: 247
+    Number of lsm generated: 246
+    Total running time: 0.064
+    Results checked.
+
+Problem: IC-T8-3-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 243
+  Total running time: 0.019
+
+  Check the results by enumeration: 
+    Number of monoids generated: 243
+    Number of lsm generated: 243
+    Total running time: 0.046
+    Results checked.
+
+Problem: IC-T9-1-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 1
+  The number of remaining columns: 199
+
+  Number of lsm: 201
+  Total running time: 0.016
+
+  Check the results by enumeration: 
+    Number of monoids generated: 202
+    Number of lsm generated: 201
+    Total running time: 0.035
+    Results checked.
+
+Problem: IC-T9-1-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 201
+  Total running time: 0.015
+
+  Check the results by enumeration: 
+    Number of monoids generated: 201
+    Number of lsm generated: 201
+    Total running time: 0.043
+    Results checked.
+
+Problem: IC-T9-2-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 1
+  The number of remaining columns: 199
+
+  Number of lsm: 202
+  Total running time: 0.016
+
+  Check the results by enumeration: 
+    Number of monoids generated: 203
+    Number of lsm generated: 202
+    Total running time: 0.037
+    Results checked.
+
+Problem: IC-T9-2-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 201
+  Total running time: 0.016
+
+  Check the results by enumeration: 
+    Number of monoids generated: 201
+    Number of lsm generated: 201
+    Total running time: 0.049
+    Results checked.
+
+Problem: IC-T9-3-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 1
+  The number of remaining columns: 199
+
+  Number of lsm: 201
+  Total running time: 0.016
+
+  Check the results by enumeration: 
+    Number of monoids generated: 202
+    Number of lsm generated: 201
+    Total running time: 0.037
+    Results checked.
+
+Problem: IC-T9-3-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 201
+  Total running time: 0.016
+
+  Check the results by enumeration: 
+    Number of monoids generated: 201
+    Number of lsm generated: 201
+    Total running time: 0.036
+    Results checked.
+
+Problem: IC-T10-1-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 1
+  The number of remaining columns: 299
+
+  Number of lsm: 2013
+  Total running time: 0.184
+
+  Check the results by enumeration: 
+    Number of monoids generated: 2022
+    Number of lsm generated: 2013
+    Total running time: 0.911
+    Results checked.
+
+Problem: IC-T10-1-second-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 5586
+  Total running time: 0.55
+
+  Check the results by enumeration: 
+    Number of monoids generated: 5586
+    Number of lsm generated: 5586
+    Total running time: 2.324
+    Results checked.
+
+Problem: IC-T10-2-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 1
+  The number of remaining columns: 299
+
+  Number of lsm: 2215
+  Total running time: 0.205
+
+  Check the results by enumeration: 
+    Number of monoids generated: 2220
+    Number of lsm generated: 2215
+    Total running time: 1.094
+    Results checked.
+
+Problem: IC-T10-2-second-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 4018
+  Total running time: 0.381
+
+  Check the results by enumeration: 
+    Number of monoids generated: 4018
+    Number of lsm generated: 4018
+    Total running time: 1.936
+    Results checked.
+
+Problem: IC-T10-3-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 2
+  The number of remaining columns: 298
+
+  Number of lsm: 2053
+  Total running time: 0.187
+
+  Check the results by enumeration: 
+    Number of monoids generated: 2069
+    Number of lsm generated: 2053
+    Total running time: 0.972
+    Results checked.
+
+Problem: IC-T10-3-second-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 2525
+  Total running time: 0.229
+
+  Check the results by enumeration: 
+    Number of monoids generated: 2525
+    Number of lsm generated: 2525
+    Total running time: 1.181
+    Results checked.
+
+Problem: IC-T11-1-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 427
+  Total running time: 0.046
+
+  Check the results by enumeration: 
+    Number of monoids generated: 427
+    Number of lsm generated: 427
+    Total running time: 0.227
+    Results checked.
+
+Problem: IC-T11-1-second-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 530
+  Total running time: 0.054
+
+  Check the results by enumeration: 
+    Number of monoids generated: 530
+    Number of lsm generated: 530
+    Total running time: 0.289
+    Results checked.
+
+Problem: IC-T11-2-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 345
+  Total running time: 0.04
+
+  Check the results by enumeration: 
+    Number of monoids generated: 345
+    Number of lsm generated: 345
+    Total running time: 0.191
+    Results checked.
+
+Problem: IC-T11-2-second-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 401
+  Total running time: 0.045
+
+  Check the results by enumeration: 
+    Number of monoids generated: 401
+    Number of lsm generated: 401
+    Total running time: 0.195
+    Results checked.
+
+Problem: IC-T11-3-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 395
+  Total running time: 0.042
+
+  Check the results by enumeration: 
+    Number of monoids generated: 395
+    Number of lsm generated: 395
+    Total running time: 0.189
+    Results checked.
+
+Problem: IC-T11-3-second-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 440
+  Total running time: 0.047
+
+  Check the results by enumeration: 
+    Number of monoids generated: 440
+    Number of lsm generated: 440
+    Total running time: 0.262
+    Results checked.
+
+Problem: IC-T12-1-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 1
+  The number of remaining columns: 299
+
+  Number of lsm: 302
+  Total running time: 0.035
+
+  Check the results by enumeration: 
+    Number of monoids generated: 303
+    Number of lsm generated: 302
+    Total running time: 0.117
+    Results checked.
+
+Problem: IC-T12-1-second-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 306
+  Total running time: 0.036
+
+  Check the results by enumeration: 
+    Number of monoids generated: 306
+    Number of lsm generated: 306
+    Total running time: 0.125
+    Results checked.
+
+Problem: IC-T12-2-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 1
+  The number of remaining columns: 299
+
+  Number of lsm: 303
+  Total running time: 0.035
+
+  Check the results by enumeration: 
+    Number of monoids generated: 304
+    Number of lsm generated: 303
+    Total running time: 0.119
+    Results checked.
+
+Problem: IC-T12-2-second-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 307
+  Total running time: 0.035
+
+  Check the results by enumeration: 
+    Number of monoids generated: 307
+    Number of lsm generated: 307
+    Total running time: 0.172
+    Results checked.
+
+Problem: IC-T12-3-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 2
+  The number of remaining columns: 298
+
+  Number of lsm: 300
+  Total running time: 0.034
+
+  Check the results by enumeration: 
+    Number of monoids generated: 302
+    Number of lsm generated: 300
+    Total running time: 0.122
+    Results checked.
+
+Problem: IC-T12-3-second-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  Number of lsm: 306
+  Total running time: 0.035
+
+  Check the results by enumeration: 
+    Number of monoids generated: 306
+    Number of lsm generated: 306
+    Total running time: 0.123
+    Results checked.
+
+Problem: IC-T13-1-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 260
+  Total running time: 0.002
+
+  Check the results by enumeration: 
+    Number of monoids generated: 264
+    Number of lsm generated: 260
+    Total running time: 0.002
+    Results checked.
+
+Problem: IC-T13-1-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 427
+  Total running time: 0.003
+
+  Check the results by enumeration: 
+    Number of monoids generated: 429
+    Number of lsm generated: 427
+    Total running time: 0.004
+    Results checked.
+
+Problem: IC-T13-2-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 2
+  The number of remaining columns: 48
+
+  Number of lsm: 340
+  Total running time: 0.003
+
+  Check the results by enumeration: 
+    Number of monoids generated: 356
+    Number of lsm generated: 340
+    Total running time: 0.003
+    Results checked.
+
+Problem: IC-T13-2-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 251
+  Total running time: 0.002
+
+  Check the results by enumeration: 
+    Number of monoids generated: 254
+    Number of lsm generated: 251
+    Total running time: 0.002
+    Results checked.
+
+Problem: IC-T13-3-first-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 1
+  The number of remaining columns: 49
+
+  Number of lsm: 239
+  Total running time: 0.003
+
+  Check the results by enumeration: 
+    Number of monoids generated: 246
+    Number of lsm generated: 239
+    Total running time: 0.003
+    Results checked.
+
+Problem: IC-T13-3-second-stage.txt
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  Number of lsm: 403
+  Total running time: 0.003
+
+  Check the results by enumeration: 
+    Number of monoids generated: 405
+    Number of lsm generated: 403
+    Total running time: 0.004
+    Results checked.
+
+Problem: IC-T14-1-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 233
+  Total running time: 0.006
+
+  Check the results by enumeration: 
+    Number of monoids generated: 233
+    Number of lsm generated: 233
+    Total running time: 0.011
+    Results checked.
+
+Problem: IC-T14-1-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 488
+  Total running time: 0.011
+
+  Check the results by enumeration: 
+    Number of monoids generated: 488
+    Number of lsm generated: 488
+    Total running time: 0.021
+    Results checked.
+
+Problem: IC-T14-2-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 309
+  Total running time: 0.007
+
+  Check the results by enumeration: 
+    Number of monoids generated: 309
+    Number of lsm generated: 309
+    Total running time: 0.012
+    Results checked.
+
+Problem: IC-T14-2-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 324
+  Total running time: 0.008
+
+  Check the results by enumeration: 
+    Number of monoids generated: 324
+    Number of lsm generated: 324
+    Total running time: 0.013
+    Results checked.
+
+Problem: IC-T14-3-first-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 294
+  Total running time: 0.006
+
+  Check the results by enumeration: 
+    Number of monoids generated: 294
+    Number of lsm generated: 294
+    Total running time: 0.011
+    Results checked.
+
+Problem: IC-T14-3-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  Number of lsm: 677
+  Total running time: 0.014
+
+  Check the results by enumeration: 
+    Number of monoids generated: 677
+    Number of lsm generated: 677
+    Total running time: 0.026
+    Results checked.
+
+Problem: IC-T15-1-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 1213
+  Total running time: 0.071
+
+  Check the results by enumeration: 
+    Number of monoids generated: 1213
+    Number of lsm generated: 1213
+    Total running time: 0.262
+    Results checked.
+
+Problem: IC-T15-1-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 1043
+  Total running time: 0.061
+
+  Check the results by enumeration: 
+    Number of monoids generated: 1043
+    Number of lsm generated: 1043
+    Total running time: 0.207
+    Results checked.
+
+Problem: IC-T15-2-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 1039
+  Total running time: 0.065
+
+  Check the results by enumeration: 
+    Number of monoids generated: 1039
+    Number of lsm generated: 1039
+    Total running time: 0.23
+    Results checked.
+
+Problem: IC-T15-2-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 994
+  Total running time: 0.064
+
+  Check the results by enumeration: 
+    Number of monoids generated: 994
+    Number of lsm generated: 994
+    Total running time: 0.261
+    Results checked.
+
+Problem: IC-T15-3-first-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 918
+  Total running time: 0.056
+
+  Check the results by enumeration: 
+    Number of monoids generated: 918
+    Number of lsm generated: 918
+    Total running time: 0.204
+    Results checked.
+
+Problem: IC-T15-3-second-stage.txt
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  Number of lsm: 1101
+  Total running time: 0.063
+
+  Check the results by enumeration: 
+    Number of monoids generated: 1101
+    Number of lsm generated: 1101
+    Total running time: 0.275
+    Results checked.
+
+Problem: IC-T16-1-first-stage.txt
+
+  The number of columns: 1000
+  The number of columns deleted: 2
+  The number of remaining columns: 998
+
+  Number of lsm: 1083
+  Total running time: 0.767
+
+  Check the results by enumeration: 
+    Number of monoids generated: 1085
+    Number of lsm generated: 1083
+    Total running time: 18.865
+    Results checked.
+
+Problem: IC-T16-1-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 0
+  The number of remaining columns: 500
+
+  Number of lsm: 546
+  Total running time: 0.189
+
+  Check the results by enumeration: 
+    Number of monoids generated: 546
+    Number of lsm generated: 546
+    Total running time: 2.016
+    Results checked.
+
+Problem: IC-T16-2-first-stage.txt
+
+  The number of columns: 1000
+  The number of columns deleted: 3
+  The number of remaining columns: 997
+
+  Number of lsm: 1091
+  Total running time: 0.767
+
+  Check the results by enumeration: 
+    Number of monoids generated: 1094
+    Number of lsm generated: 1091
+    Total running time: 20.375
+    Results checked.
+
+Problem: IC-T16-2-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 0
+  The number of remaining columns: 500
+
+  Number of lsm: 529
+  Total running time: 0.188
+
+  Check the results by enumeration: 
+    Number of monoids generated: 529
+    Number of lsm generated: 529
+    Total running time: 1.954
+    Results checked.
+
+Problem: IC-T16-3-first-stage.txt
+
+  The number of columns: 1000
+  The number of columns deleted: 0
+  The number of remaining columns: 1000
+
+  Number of lsm: 1108
+  Total running time: 0.774
+
+  Check the results by enumeration: 
+    Number of monoids generated: 1108
+    Number of lsm generated: 1108
+    Total running time: 19.317
+    Results checked.
+
+Problem: IC-T16-3-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 0
+  The number of remaining columns: 500
+
+  Number of lsm: 537
+  Total running time: 0.19
+
+  Check the results by enumeration: 
+    Number of monoids generated: 537
+    Number of lsm generated: 537
+    Total running time: 1.777
+    Results checked.
+
+
+
+Problem: IC-K1-first-stage.txt
+
+  The number of columns: 1000
+  The number of columns deleted: 989
+  The number of remaining columns: 11
+
+  Number of lsm: 46656
+  Total running time: 20.694
+
+Problem: IC-K1-second-stage.txt
+
+  The number of columns: 100
+  The number of columns deleted: 93
+  The number of remaining columns: 7
+
+  Number of lsm: 225
+  Total running time: 0
+
+Problem: IC-K2-first-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 490
+  The number of remaining columns: 10
+
+  Number of lsm: 15552
+  Total running time: 0.687
+
+Problem: IC-K2-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 485
+  The number of remaining columns: 15
+
+  Number of lsm: 12920
+  Total running time: 0.554
+
+Problem: IC-K3-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 290
+  The number of remaining columns: 10
+
+  Number of lsm: 6480
+  Total running time: 0.052
+
+Problem: IC-K3-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 488
+  The number of remaining columns: 12
+
+  Number of lsm: 6480
+  Total running time: 0.036
+
+Problem: IC-K4-first-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 490
+  The number of remaining columns: 10
+
+  Number of lsm: 15552
+  Total running time: 0.717
+
+Problem: IC-K4-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 485
+  The number of remaining columns: 15
+
+  Number of lsm: 12920
+  Total running time: 0.533
+
+Problem: IC-K5-first-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 490
+  The number of remaining columns: 10
+
+  Number of lsm: 31104
+  Total running time: 4.289
+
+Problem: IC-K5-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 488
+  The number of remaining columns: 12
+
+  Number of lsm: 8064
+  Total running time: 0.089
+
+Problem: IC-K6-first-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 437
+  The number of remaining columns: 63
+
+  Number of lsm: 2258
+  Total running time: 0.065
+
+Problem: IC-K6-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 450
+  The number of remaining columns: 50
+
+  Number of lsm: 2993
+  Total running time: 0.105
+
+Problem: IC-K7-first-stage.txt
+
+  The number of columns: 1000
+  The number of columns deleted: 974
+  The number of remaining columns: 26
+
+  Number of lsm: 24378
+  Total running time: 4.159
+
+Problem: IC-K7-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 414
+  The number of remaining columns: 86
+
+  Number of lsm: 7685
+  Total running time: 0.635
+
+Problem: IC-K8-first-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 437
+  The number of remaining columns: 63
+
+  Number of lsm: 10549
+  Total running time: 1.677
+
+Problem: IC-K8-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 405
+  The number of remaining columns: 95
+
+  Number of lsm: 15399
+  Total running time: 3.542
+
+Problem: IC-K9-first-stage.txt
+
+  The number of columns: 300
+  The number of columns deleted: 248
+  The number of remaining columns: 52
+
+  Number of lsm: 5781
+  Total running time: 0.309
+
+Problem: IC-K9-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 453
+  The number of remaining columns: 47
+
+  Number of lsm: 3644
+  Total running time: 0.111
+
+Problem: IC-K10-first-stage.txt
+
+  The number of columns: 1000
+  The number of columns deleted: 988
+  The number of remaining columns: 12
+
+  Number of lsm: 279936
+  Total running time: 98.132
+
+Problem: IC-K10-second-stage.txt
+
+  The number of columns: 500
+  The number of columns deleted: 489
+  The number of remaining columns: 11
+
+  Number of lsm: 28000
+  Total running time: 0.548
+
