@@ -11,7 +11,7 @@ https://doi.org/10.1287/ijoc.2024.0757.cd
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
-@misc{CacheTest,
+@misc{Huang2025,
   author =        {Yifei Huang, Junlong Zhang},
   publisher =     {INFORMS Journal on Computing},
   title =         {Construction of Value Functions of Integer Programs with Finite Domain},
