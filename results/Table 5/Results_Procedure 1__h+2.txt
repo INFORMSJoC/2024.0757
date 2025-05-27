@@ -1,0 +1,2181 @@
+Problem: IC-T1-1-first-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 1
+  The number of remaining columns: 49
+
+  The number of times MIP CPLEX was called: 1467532
+  The number of times MIP CPLEX was called in PreProcess: 327
+  The number of times ICS was called: -395333
+  The number of monoid elements generated: 1072199
+  Running time limit exceeded in FilterMonoid()!
+
+Problem: IC-T1-1-second-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 8
+  The number of remaining columns: 42
+
+  The number of times MIP CPLEX was called: 723754
+  The number of times MIP CPLEX was called in PreProcess: 275
+  The number of times ICS was called: 579431
+  The number of monoid elements generated: 1303185
+  Running time limit exceeded in FilterMonoid()!
+
+Problem: IC-T1-2-first-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 16
+  The number of remaining columns: 34
+
+  The number of times MIP CPLEX was called: 677733
+  The number of times MIP CPLEX was called in PreProcess: 235
+  The number of times ICS was called: 99118
+  The number of monoid elements generated: 776851
+  The number of monoid elements filtered: 48876
+  The number of monoid elements left: 727975
+
+  Computing time for pre-processing: 0.565 seconds
+  Computing time for monoid generation: 3998.8 seconds
+  Computing time for calling MIP CPLEX: 3574.93 seconds
+  Computing time for monoid filtering: 6297.49 seconds
+
+  The total time for monoid generation: 10296.9 seconds
+
+Problem: IC-T1-2-second-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 3
+  The number of remaining columns: 47
+
+  The number of times MIP CPLEX was called: 846187
+  The number of times MIP CPLEX was called in PreProcess: 323
+  The number of times ICS was called: 203781
+  The number of monoid elements generated: 1049968
+  Running time limit exceeded in FilterMonoid()!
+
+Problem: IC-T1-3-first-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  The number of times MIP CPLEX was called: 1054597
+  The number of times MIP CPLEX was called in PreProcess: 332
+  The number of times ICS was called: 290632
+  The number of monoid elements generated: 1345229
+  Running time limit exceeded in FilterMonoid()!
+
+Problem: IC-T1-3-second-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 1
+  The number of remaining columns: 49
+
+  The number of times MIP CPLEX was called: 44128
+  The number of times MIP CPLEX was called in PreProcess: 348
+  The number of times ICS was called: 37106
+  The number of monoid elements generated: 81234
+  The number of monoid elements filtered: 2382
+  The number of monoid elements left: 78852
+
+  Computing time for pre-processing: 0.842 seconds
+  Computing time for monoid generation: 216.971 seconds
+  Computing time for calling MIP CPLEX: 213.259 seconds
+  Computing time for monoid filtering: 40.073 seconds
+
+  The total time for monoid generation: 257.927 seconds
+
+Problem: IC-T2-1-first-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  The number of times MIP CPLEX was called: 23014
+  The number of times MIP CPLEX was called in PreProcess: 438
+  The number of times ICS was called: 12729
+  The number of monoid elements generated: 35743
+  The number of monoid elements filtered: 622
+  The number of monoid elements left: 35121
+
+  Computing time for pre-processing: 0.994 seconds
+  Computing time for monoid generation: 100.031 seconds
+  Computing time for calling MIP CPLEX: 99.13 seconds
+  Computing time for monoid filtering: 8.208 seconds
+
+  The total time for monoid generation: 109.281 seconds
+
+Problem: IC-T2-1-second-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 2
+  The number of remaining columns: 48
+
+  The number of times MIP CPLEX was called: 9213
+  The number of times MIP CPLEX was called in PreProcess: 420
+  The number of times ICS was called: 6211
+  The number of monoid elements generated: 15424
+  The number of monoid elements filtered: 233
+  The number of monoid elements left: 15191
+
+  Computing time for pre-processing: 0.986 seconds
+  Computing time for monoid generation: 36.694 seconds
+  Computing time for calling MIP CPLEX: 36.46 seconds
+  Computing time for monoid filtering: 1.442 seconds
+
+  The total time for monoid generation: 39.139 seconds
+
+Problem: IC-T2-2-first-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  The number of times MIP CPLEX was called: 16445
+  The number of times MIP CPLEX was called in PreProcess: 470
+  The number of times ICS was called: 12939
+  The number of monoid elements generated: 29384
+  The number of monoid elements filtered: 921
+  The number of monoid elements left: 28463
+
+  Computing time for pre-processing: 1.082 seconds
+  Computing time for monoid generation: 75.991 seconds
+  Computing time for calling MIP CPLEX: 75.435 seconds
+  Computing time for monoid filtering: 5.496 seconds
+
+  The total time for monoid generation: 82.61 seconds
+
+Problem: IC-T2-2-second-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  The number of times MIP CPLEX was called: 7114
+  The number of times MIP CPLEX was called in PreProcess: 474
+  The number of times ICS was called: 8187
+  The number of monoid elements generated: 15301
+  The number of monoid elements filtered: 74
+  The number of monoid elements left: 15227
+
+  Computing time for pre-processing: 1.044 seconds
+  Computing time for monoid generation: 27.29 seconds
+  Computing time for calling MIP CPLEX: 27.094 seconds
+  Computing time for monoid filtering: 1.47 seconds
+
+  The total time for monoid generation: 29.824 seconds
+
+Problem: IC-T2-3-first-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  The number of times MIP CPLEX was called: 29591
+  The number of times MIP CPLEX was called in PreProcess: 448
+  The number of times ICS was called: 17705
+  The number of monoid elements generated: 47296
+  The number of monoid elements filtered: 1798
+  The number of monoid elements left: 45498
+
+  Computing time for pre-processing: 0.978 seconds
+  Computing time for monoid generation: 144.021 seconds
+  Computing time for calling MIP CPLEX: 142.624 seconds
+  Computing time for monoid filtering: 14.076 seconds
+
+  The total time for monoid generation: 159.083 seconds
+
+Problem: IC-T2-3-second-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  The number of times MIP CPLEX was called: 14983
+  The number of times MIP CPLEX was called in PreProcess: 445
+  The number of times ICS was called: 10577
+  The number of monoid elements generated: 25560
+  The number of monoid elements filtered: 360
+  The number of monoid elements left: 25200
+
+  Computing time for pre-processing: 0.979 seconds
+  Computing time for monoid generation: 62.061 seconds
+  Computing time for calling MIP CPLEX: 61.577 seconds
+  Computing time for monoid filtering: 4.223 seconds
+
+  The total time for monoid generation: 67.272 seconds
+
+Problem: IC-T3-1-first-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  The number of times MIP CPLEX was called: 3580
+  The number of times MIP CPLEX was called in PreProcess: 573
+  The number of times ICS was called: 2175
+  The number of monoid elements generated: 5755
+  The number of monoid elements filtered: 54
+  The number of monoid elements left: 5701
+
+  Computing time for pre-processing: 1.244 seconds
+  Computing time for monoid generation: 11.716 seconds
+  Computing time for calling MIP CPLEX: 11.668 seconds
+  Computing time for monoid filtering: 0.219 seconds
+
+  The total time for monoid generation: 13.194 seconds
+
+Problem: IC-T3-1-second-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  The number of times MIP CPLEX was called: 2027
+  The number of times MIP CPLEX was called in PreProcess: 540
+  The number of times ICS was called: 1531
+  The number of monoid elements generated: 3558
+  The number of monoid elements filtered: 33
+  The number of monoid elements left: 3525
+
+  Computing time for pre-processing: 1.164 seconds
+  Computing time for monoid generation: 6.805 seconds
+  Computing time for calling MIP CPLEX: 6.775 seconds
+  Computing time for monoid filtering: 0.082 seconds
+
+  The total time for monoid generation: 8.06 seconds
+
+Problem: IC-T3-2-first-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 1
+  The number of remaining columns: 49
+
+  The number of times MIP CPLEX was called: 2421
+  The number of times MIP CPLEX was called in PreProcess: 562
+  The number of times ICS was called: 1822
+  The number of monoid elements generated: 4243
+  The number of monoid elements filtered: 10
+  The number of monoid elements left: 4233
+
+  Computing time for pre-processing: 1.226 seconds
+  Computing time for monoid generation: 7.925 seconds
+  Computing time for calling MIP CPLEX: 7.887 seconds
+  Computing time for monoid filtering: 0.118 seconds
+
+  The total time for monoid generation: 9.283 seconds
+
+Problem: IC-T3-2-second-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  The number of times MIP CPLEX was called: 3279
+  The number of times MIP CPLEX was called in PreProcess: 526
+  The number of times ICS was called: 1964
+  The number of monoid elements generated: 5243
+  The number of monoid elements filtered: 18
+  The number of monoid elements left: 5225
+
+  Computing time for pre-processing: 1.15 seconds
+  Computing time for monoid generation: 9.946 seconds
+  Computing time for calling MIP CPLEX: 9.89 seconds
+  Computing time for monoid filtering: 0.181 seconds
+
+  The total time for monoid generation: 11.286 seconds
+
+Problem: IC-T3-3-first-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  The number of times MIP CPLEX was called: 3507
+  The number of times MIP CPLEX was called in PreProcess: 554
+  The number of times ICS was called: 2286
+  The number of monoid elements generated: 5793
+  The number of monoid elements filtered: 22
+  The number of monoid elements left: 5771
+
+  Computing time for pre-processing: 1.174 seconds
+  Computing time for monoid generation: 11.522 seconds
+  Computing time for calling MIP CPLEX: 11.466 seconds
+  Computing time for monoid filtering: 0.23 seconds
+
+  The total time for monoid generation: 12.933 seconds
+
+Problem: IC-T3-3-second-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  The number of times MIP CPLEX was called: 3965
+  The number of times MIP CPLEX was called in PreProcess: 522
+  The number of times ICS was called: 2410
+  The number of monoid elements generated: 6375
+  The number of monoid elements filtered: 21
+  The number of monoid elements left: 6354
+
+  Computing time for pre-processing: 1.126 seconds
+  Computing time for monoid generation: 13.576 seconds
+  Computing time for calling MIP CPLEX: 13.521 seconds
+  Computing time for monoid filtering: 0.269 seconds
+
+  The total time for monoid generation: 14.979 seconds
+
+Problem: IC-T4-1-first-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 160237
+  The number of times MIP CPLEX was called in PreProcess: 1622
+  The number of times ICS was called: 166376
+  The number of monoid elements generated: 326613
+  The number of monoid elements filtered: 134
+  The number of monoid elements left: 326479
+
+  Computing time for pre-processing: 3.332 seconds
+  Computing time for monoid generation: 472.24 seconds
+  Computing time for calling MIP CPLEX: 410.431 seconds
+  Computing time for monoid filtering: 1812.95 seconds
+
+  The total time for monoid generation: 2288.53 seconds
+
+Problem: IC-T4-1-second-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 99927
+  The number of times MIP CPLEX was called in PreProcess: 1618
+  The number of times ICS was called: 90620
+  The number of monoid elements generated: 190547
+  The number of monoid elements filtered: 95
+  The number of monoid elements left: 190452
+
+  Computing time for pre-processing: 3.403 seconds
+  Computing time for monoid generation: 252.439 seconds
+  Computing time for calling MIP CPLEX: 233.674 seconds
+  Computing time for monoid filtering: 510.13 seconds
+
+  The total time for monoid generation: 765.981 seconds
+
+Problem: IC-T4-2-first-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 192221
+  The number of times MIP CPLEX was called in PreProcess: 1594
+  The number of times ICS was called: 206442
+  The number of monoid elements generated: 398663
+  The number of monoid elements filtered: 180
+  The number of monoid elements left: 398483
+
+  Computing time for pre-processing: 3.347 seconds
+  Computing time for monoid generation: 590.305 seconds
+  Computing time for calling MIP CPLEX: 501.132 seconds
+  Computing time for monoid filtering: 2753.57 seconds
+
+  The total time for monoid generation: 3347.27 seconds
+
+Problem: IC-T4-2-second-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 75606
+  The number of times MIP CPLEX was called in PreProcess: 1651
+  The number of times ICS was called: 60337
+  The number of monoid elements generated: 135943
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 135943
+
+  Computing time for pre-processing: 3.358 seconds
+  Computing time for monoid generation: 185.775 seconds
+  Computing time for calling MIP CPLEX: 175.411 seconds
+  Computing time for monoid filtering: 214.641 seconds
+
+  The total time for monoid generation: 403.822 seconds
+
+Problem: IC-T4-3-first-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 251900
+  The number of times MIP CPLEX was called in PreProcess: 1613
+  The number of times ICS was called: 419879
+  The number of monoid elements generated: 671779
+  The number of monoid elements filtered: 138
+  The number of monoid elements left: 671641
+
+  Computing time for pre-processing: 3.35 seconds
+  Computing time for monoid generation: 999.008 seconds
+  Computing time for calling MIP CPLEX: 733.371 seconds
+  Computing time for monoid filtering: 8167.89 seconds
+
+  The total time for monoid generation: 9170.26 seconds
+
+Problem: IC-T4-3-second-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 130288
+  The number of times MIP CPLEX was called in PreProcess: 1558
+  The number of times ICS was called: 152315
+  The number of monoid elements generated: 282603
+  The number of monoid elements filtered: 12
+  The number of monoid elements left: 282591
+
+  Computing time for pre-processing: 3.304 seconds
+  Computing time for monoid generation: 379.746 seconds
+  Computing time for calling MIP CPLEX: 334.426 seconds
+  Computing time for monoid filtering: 1251.62 seconds
+
+  The total time for monoid generation: 1634.71 seconds
+
+Problem: IC-T5-1-first-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 13366
+  The number of times MIP CPLEX was called in PreProcess: 2131
+  The number of times ICS was called: 7723
+  The number of monoid elements generated: 21089
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 21089
+
+  Computing time for pre-processing: 4.544 seconds
+  Computing time for monoid generation: 30.6 seconds
+  Computing time for calling MIP CPLEX: 30.032 seconds
+  Computing time for monoid filtering: 2.973 seconds
+
+  The total time for monoid generation: 38.126 seconds
+
+Problem: IC-T5-1-second-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 5542
+  The number of times MIP CPLEX was called in PreProcess: 2064
+  The number of times ICS was called: 3177
+  The number of monoid elements generated: 8719
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 8719
+
+  Computing time for pre-processing: 4.362 seconds
+  Computing time for monoid generation: 12.407 seconds
+  Computing time for calling MIP CPLEX: 12.243 seconds
+  Computing time for monoid filtering: 0.508 seconds
+
+  The total time for monoid generation: 17.285 seconds
+
+Problem: IC-T5-2-first-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 14979
+  The number of times MIP CPLEX was called in PreProcess: 2108
+  The number of times ICS was called: 8660
+  The number of monoid elements generated: 23639
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 23639
+
+  Computing time for pre-processing: 4.444 seconds
+  Computing time for monoid generation: 34.438 seconds
+  Computing time for calling MIP CPLEX: 33.827 seconds
+  Computing time for monoid filtering: 3.944 seconds
+
+  The total time for monoid generation: 42.836 seconds
+
+Problem: IC-T5-2-second-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 6952
+  The number of times MIP CPLEX was called in PreProcess: 2120
+  The number of times ICS was called: 3781
+  The number of monoid elements generated: 10733
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 10733
+
+  Computing time for pre-processing: 4.513 seconds
+  Computing time for monoid generation: 15.894 seconds
+  Computing time for calling MIP CPLEX: 15.644 seconds
+  Computing time for monoid filtering: 0.787 seconds
+
+  The total time for monoid generation: 21.202 seconds
+
+Problem: IC-T5-3-first-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 10182
+  The number of times MIP CPLEX was called in PreProcess: 2099
+  The number of times ICS was called: 6529
+  The number of monoid elements generated: 16711
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 16711
+
+  Computing time for pre-processing: 4.5 seconds
+  Computing time for monoid generation: 23.91 seconds
+  Computing time for calling MIP CPLEX: 23.508 seconds
+  Computing time for monoid filtering: 1.926 seconds
+
+  The total time for monoid generation: 30.344 seconds
+
+Problem: IC-T5-3-second-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 3368
+  The number of times MIP CPLEX was called in PreProcess: 2052
+  The number of times ICS was called: 1815
+  The number of monoid elements generated: 5183
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 5183
+
+  Computing time for pre-processing: 4.344 seconds
+  Computing time for monoid generation: 7.679 seconds
+  Computing time for calling MIP CPLEX: 7.583 seconds
+  Computing time for monoid filtering: 0.194 seconds
+
+  The total time for monoid generation: 12.225 seconds
+
+Problem: IC-T6-1-first-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 2780
+  The number of times MIP CPLEX was called in PreProcess: 2634
+  The number of times ICS was called: 1261
+  The number of monoid elements generated: 4041
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 4041
+
+  Computing time for pre-processing: 5.656 seconds
+  Computing time for monoid generation: 6.399 seconds
+  Computing time for calling MIP CPLEX: 6.309 seconds
+  Computing time for monoid filtering: 0.119 seconds
+
+  The total time for monoid generation: 12.182 seconds
+
+Problem: IC-T6-1-second-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 1170
+  The number of times MIP CPLEX was called in PreProcess: 2598
+  The number of times ICS was called: 357
+  The number of monoid elements generated: 1527
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 1527
+
+  Computing time for pre-processing: 5.644 seconds
+  Computing time for monoid generation: 2.659 seconds
+  Computing time for calling MIP CPLEX: 2.626 seconds
+  Computing time for monoid filtering: 0.015 seconds
+
+  The total time for monoid generation: 8.327 seconds
+
+Problem: IC-T6-2-first-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 2985
+  The number of times MIP CPLEX was called in PreProcess: 2629
+  The number of times ICS was called: 1164
+  The number of monoid elements generated: 4149
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 4149
+
+  Computing time for pre-processing: 5.454 seconds
+  Computing time for monoid generation: 6.945 seconds
+  Computing time for calling MIP CPLEX: 6.835 seconds
+  Computing time for monoid filtering: 0.125 seconds
+
+  The total time for monoid generation: 12.531 seconds
+
+Problem: IC-T6-2-second-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 1716
+  The number of times MIP CPLEX was called in PreProcess: 2575
+  The number of times ICS was called: 628
+  The number of monoid elements generated: 2344
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 2344
+
+  Computing time for pre-processing: 5.554 seconds
+  Computing time for monoid generation: 4.038 seconds
+  Computing time for calling MIP CPLEX: 3.985 seconds
+  Computing time for monoid filtering: 0.038 seconds
+
+  The total time for monoid generation: 9.638 seconds
+
+Problem: IC-T6-3-first-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 3545
+  The number of times MIP CPLEX was called in PreProcess: 2638
+  The number of times ICS was called: 1421
+  The number of monoid elements generated: 4966
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 4966
+
+  Computing time for pre-processing: 5.676 seconds
+  Computing time for monoid generation: 8.361 seconds
+  Computing time for calling MIP CPLEX: 8.242 seconds
+  Computing time for monoid filtering: 0.18 seconds
+
+  The total time for monoid generation: 14.226 seconds
+
+Problem: IC-T6-3-second-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 2530
+  The number of times MIP CPLEX was called in PreProcess: 2570
+  The number of times ICS was called: 928
+  The number of monoid elements generated: 3458
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 3458
+
+  Computing time for pre-processing: 5.418 seconds
+  Computing time for monoid generation: 5.874 seconds
+  Computing time for calling MIP CPLEX: 5.792 seconds
+  Computing time for monoid filtering: 0.084 seconds
+
+  The total time for monoid generation: 11.384 seconds
+
+Problem: IC-T7-1-first-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 1
+  The number of remaining columns: 199
+
+  The number of times MIP CPLEX was called: 133474
+  The number of times MIP CPLEX was called in PreProcess: 6175
+  The number of times ICS was called: 86443
+  The number of monoid elements generated: 219917
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 219917
+
+  Computing time for pre-processing: 15.139 seconds
+  Computing time for monoid generation: 396.472 seconds
+  Computing time for calling MIP CPLEX: 364.779 seconds
+  Computing time for monoid filtering: 828.616 seconds
+
+  The total time for monoid generation: 1240.24 seconds
+
+Problem: IC-T7-1-second-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  The number of times MIP CPLEX was called: 29732
+  The number of times MIP CPLEX was called in PreProcess: 6134
+  The number of times ICS was called: 20584
+  The number of monoid elements generated: 50316
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 50316
+
+  Computing time for pre-processing: 16.339 seconds
+  Computing time for monoid generation: 87.622 seconds
+  Computing time for calling MIP CPLEX: 84.839 seconds
+  Computing time for monoid filtering: 20.78 seconds
+
+  The total time for monoid generation: 124.75 seconds
+
+Problem: IC-T7-2-first-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  The number of times MIP CPLEX was called: 128238
+  The number of times MIP CPLEX was called in PreProcess: 6361
+  The number of times ICS was called: 79549
+  The number of monoid elements generated: 207787
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 207787
+
+  Computing time for pre-processing: 17.108 seconds
+  Computing time for monoid generation: 379.492 seconds
+  Computing time for calling MIP CPLEX: 348.246 seconds
+  Computing time for monoid filtering: 709.647 seconds
+
+  The total time for monoid generation: 1106.26 seconds
+
+Problem: IC-T7-2-second-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  The number of times MIP CPLEX was called: 38312
+  The number of times MIP CPLEX was called in PreProcess: 6084
+  The number of times ICS was called: 22060
+  The number of monoid elements generated: 60372
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 60372
+
+  Computing time for pre-processing: 15.237 seconds
+  Computing time for monoid generation: 106.425 seconds
+  Computing time for calling MIP CPLEX: 102.424 seconds
+  Computing time for monoid filtering: 32.14 seconds
+
+  The total time for monoid generation: 153.811 seconds
+
+Problem: IC-T7-3-first-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  The number of times MIP CPLEX was called: 145666
+  The number of times MIP CPLEX was called in PreProcess: 6250
+  The number of times ICS was called: 89500
+  The number of monoid elements generated: 235166
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 235166
+
+  Computing time for pre-processing: 15.777 seconds
+  Computing time for monoid generation: 438.953 seconds
+  Computing time for calling MIP CPLEX: 401.26 seconds
+  Computing time for monoid filtering: 951.991 seconds
+
+  The total time for monoid generation: 1406.73 seconds
+
+Problem: IC-T7-3-second-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  The number of times MIP CPLEX was called: 23849
+  The number of times MIP CPLEX was called in PreProcess: 6113
+  The number of times ICS was called: 12927
+  The number of monoid elements generated: 36776
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 36776
+
+  Computing time for pre-processing: 15.899 seconds
+  Computing time for monoid generation: 66.554 seconds
+  Computing time for calling MIP CPLEX: 64.485 seconds
+  Computing time for monoid filtering: 9.928 seconds
+
+  The total time for monoid generation: 92.39 seconds
+
+Problem: IC-T8-1-first-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  The number of times MIP CPLEX was called: 12703
+  The number of times MIP CPLEX was called in PreProcess: 8102
+  The number of times ICS was called: 5270
+  The number of monoid elements generated: 17973
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 17973
+
+  Computing time for pre-processing: 21.715 seconds
+  Computing time for monoid generation: 36.903 seconds
+  Computing time for calling MIP CPLEX: 35.865 seconds
+  Computing time for monoid filtering: 2.18 seconds
+
+  The total time for monoid generation: 60.806 seconds
+
+Problem: IC-T8-1-second-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  The number of times MIP CPLEX was called: 4066
+  The number of times MIP CPLEX was called in PreProcess: 8271
+  The number of times ICS was called: 1283
+  The number of monoid elements generated: 5349
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 5349
+
+  Computing time for pre-processing: 21.589 seconds
+  Computing time for monoid generation: 11.683 seconds
+  Computing time for calling MIP CPLEX: 11.393 seconds
+  Computing time for monoid filtering: 0.206 seconds
+
+  The total time for monoid generation: 33.521 seconds
+
+Problem: IC-T8-2-first-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  The number of times MIP CPLEX was called: 12014
+  The number of times MIP CPLEX was called in PreProcess: 8152
+  The number of times ICS was called: 5113
+  The number of monoid elements generated: 17127
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 17127
+
+  Computing time for pre-processing: 21.13 seconds
+  Computing time for monoid generation: 34.594 seconds
+  Computing time for calling MIP CPLEX: 33.621 seconds
+  Computing time for monoid filtering: 2.048 seconds
+
+  The total time for monoid generation: 57.782 seconds
+
+Problem: IC-T8-2-second-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  The number of times MIP CPLEX was called: 5037
+  The number of times MIP CPLEX was called in PreProcess: 8314
+  The number of times ICS was called: 1713
+  The number of monoid elements generated: 6750
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 6750
+
+  Computing time for pre-processing: 21.732 seconds
+  Computing time for monoid generation: 14.44 seconds
+  Computing time for calling MIP CPLEX: 14.06 seconds
+  Computing time for monoid filtering: 0.316 seconds
+
+  The total time for monoid generation: 36.497 seconds
+
+Problem: IC-T8-3-first-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 1
+  The number of remaining columns: 199
+
+  The number of times MIP CPLEX was called: 10279
+  The number of times MIP CPLEX was called in PreProcess: 8200
+  The number of times ICS was called: 4146
+  The number of monoid elements generated: 14425
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 14425
+
+  Computing time for pre-processing: 21.336 seconds
+  Computing time for monoid generation: 29.767 seconds
+  Computing time for calling MIP CPLEX: 28.926 seconds
+  Computing time for monoid filtering: 1.477 seconds
+
+  The total time for monoid generation: 52.59 seconds
+
+Problem: IC-T8-3-second-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  The number of times MIP CPLEX was called: 2526
+  The number of times MIP CPLEX was called in PreProcess: 8106
+  The number of times ICS was called: 696
+  The number of monoid elements generated: 3222
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 3222
+
+  Computing time for pre-processing: 21.335 seconds
+  Computing time for monoid generation: 7.296 seconds
+  Computing time for calling MIP CPLEX: 7.112 seconds
+  Computing time for monoid filtering: 0.078 seconds
+
+  The total time for monoid generation: 28.716 seconds
+
+Problem: IC-T9-1-first-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 1
+  The number of remaining columns: 199
+
+  The number of times MIP CPLEX was called: 3863
+  The number of times MIP CPLEX was called in PreProcess: 10236
+  The number of times ICS was called: 359
+  The number of monoid elements generated: 4222
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 4222
+
+  Computing time for pre-processing: 27.648 seconds
+  Computing time for monoid generation: 11.973 seconds
+  Computing time for calling MIP CPLEX: 11.682 seconds
+  Computing time for monoid filtering: 0.128 seconds
+
+  The total time for monoid generation: 39.757 seconds
+
+Problem: IC-T9-1-second-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  The number of times MIP CPLEX was called: 1452
+  The number of times MIP CPLEX was called in PreProcess: 10223
+  The number of times ICS was called: 200
+  The number of monoid elements generated: 1652
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 1652
+
+  Computing time for pre-processing: 28.077 seconds
+  Computing time for monoid generation: 4.56 seconds
+  Computing time for calling MIP CPLEX: 4.461 seconds
+  Computing time for monoid filtering: 0.02 seconds
+
+  The total time for monoid generation: 32.667 seconds
+
+Problem: IC-T9-2-first-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 1
+  The number of remaining columns: 199
+
+  The number of times MIP CPLEX was called: 4438
+  The number of times MIP CPLEX was called in PreProcess: 10138
+  The number of times ICS was called: 460
+  The number of monoid elements generated: 4898
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 4898
+
+  Computing time for pre-processing: 26.75 seconds
+  Computing time for monoid generation: 13.551 seconds
+  Computing time for calling MIP CPLEX: 13.262 seconds
+  Computing time for monoid filtering: 0.169 seconds
+
+  The total time for monoid generation: 40.487 seconds
+
+Problem: IC-T9-2-second-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  The number of times MIP CPLEX was called: 995
+  The number of times MIP CPLEX was called in PreProcess: 10192
+  The number of times ICS was called: 173
+  The number of monoid elements generated: 1168
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 1168
+
+  Computing time for pre-processing: 27.468 seconds
+  Computing time for monoid generation: 3.041 seconds
+  Computing time for calling MIP CPLEX: 2.957 seconds
+  Computing time for monoid filtering: 0.01 seconds
+
+  The total time for monoid generation: 30.526 seconds
+
+Problem: IC-T9-3-first-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 1
+  The number of remaining columns: 199
+
+  The number of times MIP CPLEX was called: 4406
+  The number of times MIP CPLEX was called in PreProcess: 10156
+  The number of times ICS was called: 570
+  The number of monoid elements generated: 4976
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 4976
+
+  Computing time for pre-processing: 27.693 seconds
+  Computing time for monoid generation: 13.539 seconds
+  Computing time for calling MIP CPLEX: 13.184 seconds
+  Computing time for monoid filtering: 0.18 seconds
+
+  The total time for monoid generation: 41.422 seconds
+
+Problem: IC-T9-3-second-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  The number of times MIP CPLEX was called: 1091
+  The number of times MIP CPLEX was called in PreProcess: 10121
+  The number of times ICS was called: 180
+  The number of monoid elements generated: 1271
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 1271
+
+  Computing time for pre-processing: 26.916 seconds
+  Computing time for monoid generation: 3.371 seconds
+  Computing time for calling MIP CPLEX: 3.291 seconds
+  Computing time for monoid filtering: 0.012 seconds
+
+  The total time for monoid generation: 30.313 seconds
+
+Problem: IC-T10-1-first-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 1
+  The number of remaining columns: 299
+
+  The number of times MIP CPLEX was called: 665431
+  The number of times MIP CPLEX was called in PreProcess: 9182
+  The number of times ICS was called: 426632
+  The number of monoid elements generated: 1092063
+  Running time limit exceeded in FilterMonoid()!
+
+Problem: IC-T10-1-second-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  The number of times MIP CPLEX was called: 349484
+  The number of times MIP CPLEX was called in PreProcess: 9138
+  The number of times ICS was called: 218570
+  The number of monoid elements generated: 568054
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 568054
+
+  Computing time for pre-processing: 25.13 seconds
+  Computing time for monoid generation: 1454.2 seconds
+  Computing time for calling MIP CPLEX: 1192.2 seconds
+  Computing time for monoid filtering: 5990.22 seconds
+
+  The total time for monoid generation: 7469.59 seconds
+
+Problem: IC-T10-2-first-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 1
+  The number of remaining columns: 299
+
+  The number of times MIP CPLEX was called: 690869
+  The number of times MIP CPLEX was called in PreProcess: 9340
+  The number of times ICS was called: 485430
+  The number of monoid elements generated: 1176299
+  Running time limit exceeded in FilterMonoid()!
+
+Problem: IC-T10-2-second-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  The number of times MIP CPLEX was called: 241894
+  The number of times MIP CPLEX was called in PreProcess: 9199
+  The number of times ICS was called: 154709
+  The number of monoid elements generated: 396603
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 396603
+
+  Computing time for pre-processing: 25.594 seconds
+  Computing time for monoid generation: 934.709 seconds
+  Computing time for calling MIP CPLEX: 813.206 seconds
+  Computing time for monoid filtering: 2901.63 seconds
+
+  The total time for monoid generation: 3861.97 seconds
+
+Problem: IC-T10-3-first-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 2
+  The number of remaining columns: 298
+
+  The number of times MIP CPLEX was called: 613448
+  The number of times MIP CPLEX was called in PreProcess: 9306
+  The number of times ICS was called: 385118
+  The number of monoid elements generated: 998566
+  Running time limit exceeded in FilterMonoid()!
+
+Problem: IC-T10-3-second-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  The number of times MIP CPLEX was called: 108114
+  The number of times MIP CPLEX was called in PreProcess: 9370
+  The number of times ICS was called: 60206
+  The number of monoid elements generated: 168320
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 168320
+
+  Computing time for pre-processing: 25.696 seconds
+  Computing time for monoid generation: 353.908 seconds
+  Computing time for calling MIP CPLEX: 329.933 seconds
+  Computing time for monoid filtering: 445.387 seconds
+
+  The total time for monoid generation: 825.019 seconds
+
+Problem: IC-T11-1-first-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  The number of times MIP CPLEX was called: 40293
+  The number of times MIP CPLEX was called in PreProcess: 12129
+  The number of times ICS was called: 14787
+  The number of monoid elements generated: 55080
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 55080
+
+  Computing time for pre-processing: 35.77 seconds
+  Computing time for monoid generation: 137.646 seconds
+  Computing time for calling MIP CPLEX: 132.329 seconds
+  Computing time for monoid filtering: 27.511 seconds
+
+  The total time for monoid generation: 200.948 seconds
+
+Problem: IC-T11-1-second-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  The number of times MIP CPLEX was called: 11360
+  The number of times MIP CPLEX was called in PreProcess: 12300
+  The number of times ICS was called: 4104
+  The number of monoid elements generated: 15464
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 15464
+
+  Computing time for pre-processing: 36.493 seconds
+  Computing time for monoid generation: 38.68 seconds
+  Computing time for calling MIP CPLEX: 37.359 seconds
+  Computing time for monoid filtering: 1.786 seconds
+
+  The total time for monoid generation: 77.007 seconds
+
+Problem: IC-T11-2-first-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  The number of times MIP CPLEX was called: 24614
+  The number of times MIP CPLEX was called in PreProcess: 12369
+  The number of times ICS was called: 9732
+  The number of monoid elements generated: 34346
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 34346
+
+  Computing time for pre-processing: 36.237 seconds
+  Computing time for monoid generation: 83.37 seconds
+  Computing time for calling MIP CPLEX: 80.435 seconds
+  Computing time for monoid filtering: 9.3 seconds
+
+  The total time for monoid generation: 128.917 seconds
+
+Problem: IC-T11-2-second-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  The number of times MIP CPLEX was called: 8378
+  The number of times MIP CPLEX was called in PreProcess: 12398
+  The number of times ICS was called: 2751
+  The number of monoid elements generated: 11129
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 11129
+
+  Computing time for pre-processing: 37.611 seconds
+  Computing time for monoid generation: 29.133 seconds
+  Computing time for calling MIP CPLEX: 28.155 seconds
+  Computing time for monoid filtering: 0.94 seconds
+
+  The total time for monoid generation: 67.698 seconds
+
+Problem: IC-T11-3-first-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  The number of times MIP CPLEX was called: 31464
+  The number of times MIP CPLEX was called in PreProcess: 12288
+  The number of times ICS was called: 12113
+  The number of monoid elements generated: 43577
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 43577
+
+  Computing time for pre-processing: 37.245 seconds
+  Computing time for monoid generation: 109.295 seconds
+  Computing time for calling MIP CPLEX: 105.133 seconds
+  Computing time for monoid filtering: 14.903 seconds
+
+  The total time for monoid generation: 161.453 seconds
+
+Problem: IC-T11-3-second-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  The number of times MIP CPLEX was called: 11007
+  The number of times MIP CPLEX was called in PreProcess: 12277
+  The number of times ICS was called: 3861
+  The number of monoid elements generated: 14868
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 14868
+
+  Computing time for pre-processing: 35.958 seconds
+  Computing time for monoid generation: 39.339 seconds
+  Computing time for calling MIP CPLEX: 38.005 seconds
+  Computing time for monoid filtering: 1.629 seconds
+
+  The total time for monoid generation: 76.944 seconds
+
+Problem: IC-T12-1-first-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 1
+  The number of remaining columns: 299
+
+  The number of times MIP CPLEX was called: 9099
+  The number of times MIP CPLEX was called in PreProcess: 15222
+  The number of times ICS was called: 1070
+  The number of monoid elements generated: 10169
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 10169
+
+  Computing time for pre-processing: 49.037 seconds
+  Computing time for monoid generation: 33.445 seconds
+  Computing time for calling MIP CPLEX: 32.576 seconds
+  Computing time for monoid filtering: 0.728 seconds
+
+  The total time for monoid generation: 83.22 seconds
+
+Problem: IC-T12-1-second-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  The number of times MIP CPLEX was called: 3115
+  The number of times MIP CPLEX was called in PreProcess: 15173
+  The number of times ICS was called: 368
+  The number of monoid elements generated: 3483
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 3483
+
+  Computing time for pre-processing: 47.647 seconds
+  Computing time for monoid generation: 11.606 seconds
+  Computing time for calling MIP CPLEX: 11.259 seconds
+  Computing time for monoid filtering: 0.086 seconds
+
+  The total time for monoid generation: 59.388 seconds
+
+Problem: IC-T12-2-first-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 1
+  The number of remaining columns: 299
+
+  The number of times MIP CPLEX was called: 9196
+  The number of times MIP CPLEX was called in PreProcess: 15362
+  The number of times ICS was called: 1061
+  The number of monoid elements generated: 10257
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 10257
+
+  Computing time for pre-processing: 49.317 seconds
+  Computing time for monoid generation: 34.646 seconds
+  Computing time for calling MIP CPLEX: 33.633 seconds
+  Computing time for monoid filtering: 0.771 seconds
+
+  The total time for monoid generation: 84.754 seconds
+
+Problem: IC-T12-2-second-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  The number of times MIP CPLEX was called: 3930
+  The number of times MIP CPLEX was called in PreProcess: 15270
+  The number of times ICS was called: 370
+  The number of monoid elements generated: 4300
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 4300
+
+  Computing time for pre-processing: 48.674 seconds
+  Computing time for monoid generation: 14.394 seconds
+  Computing time for calling MIP CPLEX: 14.022 seconds
+  Computing time for monoid filtering: 0.133 seconds
+
+  The total time for monoid generation: 63.245 seconds
+
+Problem: IC-T12-3-first-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 2
+  The number of remaining columns: 298
+
+  The number of times MIP CPLEX was called: 9196
+  The number of times MIP CPLEX was called in PreProcess: 15248
+  The number of times ICS was called: 1072
+  The number of monoid elements generated: 10268
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 10268
+
+  Computing time for pre-processing: 48.174 seconds
+  Computing time for monoid generation: 34.007 seconds
+  Computing time for calling MIP CPLEX: 33.008 seconds
+  Computing time for monoid filtering: 0.746 seconds
+
+  The total time for monoid generation: 82.936 seconds
+
+Problem: IC-T12-3-second-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 0
+  The number of remaining columns: 300
+
+  The number of times MIP CPLEX was called: 2265
+  The number of times MIP CPLEX was called in PreProcess: 15280
+  The number of times ICS was called: 302
+  The number of monoid elements generated: 2567
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 2567
+
+  Computing time for pre-processing: 47.004 seconds
+  Computing time for monoid generation: 7.954 seconds
+  Computing time for calling MIP CPLEX: 7.694 seconds
+  Computing time for monoid filtering: 0.048 seconds
+
+  The total time for monoid generation: 55.017 seconds
+
+Problem: IC-T13-1-first-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  The number of times MIP CPLEX was called: 4372
+  The number of times MIP CPLEX was called in PreProcess: 524
+  The number of times ICS was called: 3070
+  The number of monoid elements generated: 7442
+  The number of monoid elements filtered: 139
+  The number of monoid elements left: 7303
+
+  Computing time for pre-processing: 1.1 seconds
+  Computing time for monoid generation: 16.443 seconds
+  Computing time for calling MIP CPLEX: 16.364 seconds
+  Computing time for monoid filtering: 0.367 seconds
+
+  The total time for monoid generation: 17.929 seconds
+
+Problem: IC-T13-1-second-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  The number of times MIP CPLEX was called: 2521
+  The number of times MIP CPLEX was called in PreProcess: 550
+  The number of times ICS was called: 2291
+  The number of monoid elements generated: 4812
+  The number of monoid elements filtered: 60
+  The number of monoid elements left: 4752
+
+  Computing time for pre-processing: 1.142 seconds
+  Computing time for monoid generation: 8.38 seconds
+  Computing time for calling MIP CPLEX: 8.343 seconds
+  Computing time for monoid filtering: 0.151 seconds
+
+  The total time for monoid generation: 9.695 seconds
+
+Problem: IC-T13-2-first-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 2
+  The number of remaining columns: 48
+
+  The number of times MIP CPLEX was called: 5351
+  The number of times MIP CPLEX was called in PreProcess: 503
+  The number of times ICS was called: 2670
+  The number of monoid elements generated: 8021
+  The number of monoid elements filtered: 187
+  The number of monoid elements left: 7834
+
+  Computing time for pre-processing: 1.079 seconds
+  Computing time for monoid generation: 20.489 seconds
+  Computing time for calling MIP CPLEX: 20.397 seconds
+  Computing time for monoid filtering: 0.426 seconds
+
+  The total time for monoid generation: 22.017 seconds
+
+Problem: IC-T13-2-second-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  The number of times MIP CPLEX was called: 1400
+  The number of times MIP CPLEX was called in PreProcess: 547
+  The number of times ICS was called: 1016
+  The number of monoid elements generated: 2416
+  The number of monoid elements filtered: 9
+  The number of monoid elements left: 2407
+
+  Computing time for pre-processing: 1.179 seconds
+  Computing time for monoid generation: 4.226 seconds
+  Computing time for calling MIP CPLEX: 4.203 seconds
+  Computing time for monoid filtering: 0.038 seconds
+
+  The total time for monoid generation: 5.45 seconds
+
+Problem: IC-T13-3-first-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 1
+  The number of remaining columns: 49
+
+  The number of times MIP CPLEX was called: 2947
+  The number of times MIP CPLEX was called in PreProcess: 550
+  The number of times ICS was called: 1473
+  The number of monoid elements generated: 4420
+  The number of monoid elements filtered: 97
+  The number of monoid elements left: 4323
+
+  Computing time for pre-processing: 1.181 seconds
+  Computing time for monoid generation: 10.025 seconds
+  Computing time for calling MIP CPLEX: 9.987 seconds
+  Computing time for monoid filtering: 0.126 seconds
+
+  The total time for monoid generation: 11.356 seconds
+
+Problem: IC-T13-3-second-stage.lp
+
+  The number of columns: 50
+  The number of columns deleted: 0
+  The number of remaining columns: 50
+
+  The number of times MIP CPLEX was called: 1822
+  The number of times MIP CPLEX was called in PreProcess: 567
+  The number of times ICS was called: 1337
+  The number of monoid elements generated: 3159
+  The number of monoid elements filtered: 13
+  The number of monoid elements left: 3146
+
+  Computing time for pre-processing: 1.208 seconds
+  Computing time for monoid generation: 5.615 seconds
+  Computing time for calling MIP CPLEX: 5.587 seconds
+  Computing time for monoid filtering: 0.065 seconds
+
+  The total time for monoid generation: 6.894 seconds
+
+Problem: IC-T14-1-first-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 8398
+  The number of times MIP CPLEX was called in PreProcess: 2164
+  The number of times ICS was called: 4079
+  The number of monoid elements generated: 12477
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 12477
+
+  Computing time for pre-processing: 4.55 seconds
+  Computing time for monoid generation: 19.175 seconds
+  Computing time for calling MIP CPLEX: 18.899 seconds
+  Computing time for monoid filtering: 1.1 seconds
+
+  The total time for monoid generation: 24.836 seconds
+
+Problem: IC-T14-1-second-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 6194
+  The number of times MIP CPLEX was called in PreProcess: 2058
+  The number of times ICS was called: 3965
+  The number of monoid elements generated: 10159
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 10159
+
+  Computing time for pre-processing: 4.286 seconds
+  Computing time for monoid generation: 13.982 seconds
+  Computing time for calling MIP CPLEX: 13.754 seconds
+  Computing time for monoid filtering: 0.798 seconds
+
+  The total time for monoid generation: 19.081 seconds
+
+Problem: IC-T14-2-first-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 12686
+  The number of times MIP CPLEX was called in PreProcess: 2092
+  The number of times ICS was called: 8141
+  The number of monoid elements generated: 20827
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 20827
+
+  Computing time for pre-processing: 4.456 seconds
+  Computing time for monoid generation: 29.313 seconds
+  Computing time for calling MIP CPLEX: 28.806 seconds
+  Computing time for monoid filtering: 3.072 seconds
+
+  The total time for monoid generation: 36.863 seconds
+
+Problem: IC-T14-2-second-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 2879
+  The number of times MIP CPLEX was called in PreProcess: 2104
+  The number of times ICS was called: 2024
+  The number of monoid elements generated: 4903
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 4903
+
+  Computing time for pre-processing: 4.231 seconds
+  Computing time for monoid generation: 6.077 seconds
+  Computing time for calling MIP CPLEX: 5.993 seconds
+  Computing time for monoid filtering: 0.16 seconds
+
+  The total time for monoid generation: 10.483 seconds
+
+Problem: IC-T14-3-first-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 12246
+  The number of times MIP CPLEX was called in PreProcess: 2104
+  The number of times ICS was called: 7236
+  The number of monoid elements generated: 19482
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 19482
+
+  Computing time for pre-processing: 4.195 seconds
+  Computing time for monoid generation: 28.098 seconds
+  Computing time for calling MIP CPLEX: 27.616 seconds
+  Computing time for monoid filtering: 2.717 seconds
+
+  The total time for monoid generation: 35.025 seconds
+
+Problem: IC-T14-3-second-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 0
+  The number of remaining columns: 100
+
+  The number of times MIP CPLEX was called: 7577
+  The number of times MIP CPLEX was called in PreProcess: 2110
+  The number of times ICS was called: 5432
+  The number of monoid elements generated: 13009
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 13009
+
+  Computing time for pre-processing: 4.284 seconds
+  Computing time for monoid generation: 16.918 seconds
+  Computing time for calling MIP CPLEX: 16.633 seconds
+  Computing time for monoid filtering: 1.194 seconds
+
+  The total time for monoid generation: 22.403 seconds
+
+Problem: IC-T15-1-first-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  The number of times MIP CPLEX was called: 249858
+  The number of times MIP CPLEX was called in PreProcess: 6127
+  The number of times ICS was called: 163282
+  The number of monoid elements generated: 413140
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 413140
+
+  Computing time for pre-processing: 14.656 seconds
+  Computing time for monoid generation: 809.132 seconds
+  Computing time for calling MIP CPLEX: 690.765 seconds
+  Computing time for monoid filtering: 3137.86 seconds
+
+  The total time for monoid generation: 3961.67 seconds
+
+Problem: IC-T15-1-second-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  The number of times MIP CPLEX was called: 34280
+  The number of times MIP CPLEX was called in PreProcess: 6266
+  The number of times ICS was called: 19610
+  The number of monoid elements generated: 53890
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 53890
+
+  Computing time for pre-processing: 15.301 seconds
+  Computing time for monoid generation: 93.213 seconds
+  Computing time for calling MIP CPLEX: 89.851 seconds
+  Computing time for monoid filtering: 24.607 seconds
+
+  The total time for monoid generation: 133.163 seconds
+
+Problem: IC-T15-2-first-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  The number of times MIP CPLEX was called: 170160
+  The number of times MIP CPLEX was called in PreProcess: 6126
+  The number of times ICS was called: 110503
+  The number of monoid elements generated: 280663
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 280663
+
+  Computing time for pre-processing: 15.256 seconds
+  Computing time for monoid generation: 505.715 seconds
+  Computing time for calling MIP CPLEX: 454.493 seconds
+  Computing time for monoid filtering: 1375.23 seconds
+
+  The total time for monoid generation: 1896.21 seconds
+
+Problem: IC-T15-2-second-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  The number of times MIP CPLEX was called: 34910
+  The number of times MIP CPLEX was called in PreProcess: 6220
+  The number of times ICS was called: 20063
+  The number of monoid elements generated: 54973
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 54973
+
+  Computing time for pre-processing: 15.2 seconds
+  Computing time for monoid generation: 94.064 seconds
+  Computing time for calling MIP CPLEX: 90.595 seconds
+  Computing time for monoid filtering: 25.679 seconds
+
+  The total time for monoid generation: 134.988 seconds
+
+Problem: IC-T15-3-first-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  The number of times MIP CPLEX was called: 152374
+  The number of times MIP CPLEX was called in PreProcess: 6192
+  The number of times ICS was called: 102633
+  The number of monoid elements generated: 255007
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 255007
+
+  Computing time for pre-processing: 15.261 seconds
+  Computing time for monoid generation: 448.67 seconds
+  Computing time for calling MIP CPLEX: 406.918 seconds
+  Computing time for monoid filtering: 1106.38 seconds
+
+  The total time for monoid generation: 1570.32 seconds
+
+Problem: IC-T15-3-second-stage.lp
+
+  The number of columns: 200
+  The number of columns deleted: 0
+  The number of remaining columns: 200
+
+  The number of times MIP CPLEX was called: 31422
+  The number of times MIP CPLEX was called in PreProcess: 6158
+  The number of times ICS was called: 19553
+  The number of monoid elements generated: 50975
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 50975
+
+  Computing time for pre-processing: 15.053 seconds
+  Computing time for monoid generation: 83.592 seconds
+  Computing time for calling MIP CPLEX: 80.451 seconds
+  Computing time for monoid filtering: 21.61 seconds
+
+  The total time for monoid generation: 120.3 seconds
+
+Problem: IC-T16-1-first-stage.lp
+
+  The number of columns: 1000
+  The number of columns deleted: 2
+  The number of remaining columns: 998
+
+  The number of times MIP CPLEX was called: 292546
+  The number of times MIP CPLEX was called in PreProcess: 75941
+  The number of times ICS was called: 94049
+  The number of monoid elements generated: 386595
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 386595
+
+  Computing time for pre-processing: 600.482 seconds
+  Computing time for monoid generation: 3216.24 seconds
+  Computing time for calling MIP CPLEX: 2940.18 seconds
+  Computing time for monoid filtering: 3026.26 seconds
+
+  The total time for monoid generation: 6843 seconds
+
+Problem: IC-T16-1-second-stage.lp
+
+  The number of columns: 500
+  The number of columns deleted: 0
+  The number of remaining columns: 500
+
+  The number of times MIP CPLEX was called: 12400
+  The number of times MIP CPLEX was called in PreProcess: 37965
+  The number of times ICS was called: 3467
+  The number of monoid elements generated: 15867
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 15867
+
+  Computing time for pre-processing: 200.116 seconds
+  Computing time for monoid generation: 79.681 seconds
+  Computing time for calling MIP CPLEX: 75.954 seconds
+  Computing time for monoid filtering: 2.116 seconds
+
+  The total time for monoid generation: 281.964 seconds
+
+Problem: IC-T16-2-first-stage.lp
+
+  The number of columns: 1000
+  The number of columns deleted: 3
+  The number of remaining columns: 997
+
+  The number of times MIP CPLEX was called: 317150
+  The number of times MIP CPLEX was called in PreProcess: 75958
+  The number of times ICS was called: 100980
+  The number of monoid elements generated: 418130
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 418130
+
+  Computing time for pre-processing: 615.703 seconds
+  Computing time for monoid generation: 3321.93 seconds
+  Computing time for calling MIP CPLEX: 3016.53 seconds
+  Computing time for monoid filtering: 3651.62 seconds
+
+  The total time for monoid generation: 7589.32 seconds
+
+Problem: IC-T16-2-second-stage.lp
+
+  The number of columns: 500
+  The number of columns deleted: 0
+  The number of remaining columns: 500
+
+  The number of times MIP CPLEX was called: 8338
+  The number of times MIP CPLEX was called in PreProcess: 37887
+  The number of times ICS was called: 1838
+  The number of monoid elements generated: 10176
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 10176
+
+  Computing time for pre-processing: 197.938 seconds
+  Computing time for monoid generation: 53.104 seconds
+  Computing time for calling MIP CPLEX: 50.624 seconds
+  Computing time for monoid filtering: 0.814 seconds
+
+  The total time for monoid generation: 251.905 seconds
+
+Problem: IC-T16-3-first-stage.lp
+
+  The number of columns: 1000
+  The number of columns deleted: 0
+  The number of remaining columns: 1000
+
+  The number of times MIP CPLEX was called: 326912
+  The number of times MIP CPLEX was called in PreProcess: 75984
+  The number of times ICS was called: 107537
+  The number of monoid elements generated: 434449
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 434449
+
+  Computing time for pre-processing: 606.604 seconds
+  Computing time for monoid generation: 3503.18 seconds
+  Computing time for calling MIP CPLEX: 3180.4 seconds
+  Computing time for monoid filtering: 3824.22 seconds
+
+  The total time for monoid generation: 7934.06 seconds
+
+Problem: IC-T16-3-second-stage.lp
+
+  The number of columns: 500
+  The number of columns deleted: 0
+  The number of remaining columns: 500
+
+  The number of times MIP CPLEX was called: 11232
+  The number of times MIP CPLEX was called in PreProcess: 38178
+  The number of times ICS was called: 2917
+  The number of monoid elements generated: 14149
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 14149
+
+  Computing time for pre-processing: 202.875 seconds
+  Computing time for monoid generation: 71.886 seconds
+  Computing time for calling MIP CPLEX: 68.536 seconds
+  Computing time for monoid filtering: 1.63 seconds
+
+  The total time for monoid generation: 276.435 seconds
+
+Problem: IC-K1-first-stage.lp
+
+  The number of columns: 1000
+  The number of columns deleted: 987
+  The number of remaining columns: 13
+
+  The number of times MIP CPLEX was called: 1
+  The number of times MIP CPLEX was called in PreProcess: 1013
+  The number of times ICS was called: 262143
+  The number of monoid elements generated: 262144
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 262144
+
+  Computing time for pre-processing: 5.021 seconds
+  Computing time for monoid generation: 1229.82 seconds
+  Computing time for calling MIP CPLEX: 0.002 seconds
+  Computing time for monoid filtering: 464.222 seconds
+
+  The total time for monoid generation: 1699.11 seconds
+
+Problem: IC-K1-second-stage.lp
+
+  The number of columns: 100
+  The number of columns deleted: 94
+  The number of remaining columns: 6
+
+  The number of times MIP CPLEX was called: 1
+  The number of times MIP CPLEX was called in PreProcess: 115
+  The number of times ICS was called: 767
+  The number of monoid elements generated: 768
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 768
+
+  Computing time for pre-processing: 0.554 seconds
+  Computing time for monoid generation: 0.003 seconds
+  Computing time for calling MIP CPLEX: 0.002 seconds
+  Computing time for monoid filtering: 0.003 seconds
+
+  The total time for monoid generation: 0.604 seconds
+
+Problem: IC-K2-first-stage.lp
+
+  The number of columns: 500
+  The number of columns deleted: 491
+  The number of remaining columns: 9
+
+  The number of times MIP CPLEX was called: 593985
+  The number of times MIP CPLEX was called in PreProcess: 517
+  The number of times ICS was called: -512065
+  The number of monoid elements generated: 81920
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 81920
+
+  Computing time for pre-processing: 2.422 seconds
+  Computing time for monoid generation: 2226.19 seconds
+  Computing time for calling MIP CPLEX: 2220.4 seconds
+  Computing time for monoid filtering: 42.828 seconds
+
+  The total time for monoid generation: 2271.45 seconds
+
+Problem: IC-K2-second-stage.lp
+
+  The number of columns: 500
+  The number of columns deleted: 485
+  The number of remaining columns: 15
+
+  The number of times MIP CPLEX was called: 980708
+  The number of times MIP CPLEX was called in PreProcess: 535
+  The number of times ICS was called: -935030
+  The number of monoid elements generated: 45678
+  The number of monoid elements filtered: 7068
+  The number of monoid elements left: 38610
+
+  Computing time for pre-processing: 2.672 seconds
+  Computing time for monoid generation: 5426.22 seconds
+  Computing time for calling MIP CPLEX: 5420.11 seconds
+  Computing time for monoid filtering: 10.88 seconds
+
+  The total time for monoid generation: 5439.83 seconds
+
+Problem: IC-K3-first-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 288
+  The number of remaining columns: 12
+
+  The number of times MIP CPLEX was called: 2211904
+  The number of times MIP CPLEX was called in PreProcess: 320
+  The number of times ICS was called: -2170944
+  The number of monoid elements generated: 40960
+  The number of monoid elements filtered: 8192
+  The number of monoid elements left: 32768
+
+  Computing time for pre-processing: 1.432 seconds
+  Computing time for monoid generation: 8218.07 seconds
+  Computing time for calling MIP CPLEX: 8207.38 seconds
+  Computing time for monoid filtering: 7.249 seconds
+
+  The total time for monoid generation: 8226.77 seconds
+
+Problem: IC-K3-second-stage.lp
+
+  The number of columns: 500
+  The number of columns deleted: 491
+  The number of remaining columns: 9
+
+  The number of times MIP CPLEX was called: 19810
+  The number of times MIP CPLEX was called in PreProcess: 524
+  The number of times ICS was called: 2090
+  The number of monoid elements generated: 21900
+  The number of monoid elements filtered: 2250
+  The number of monoid elements left: 19650
+
+  Computing time for pre-processing: 2.491 seconds
+  Computing time for monoid generation: 80.776 seconds
+  Computing time for calling MIP CPLEX: 80.493 seconds
+  Computing time for monoid filtering: 2.256 seconds
+
+  The total time for monoid generation: 85.54 seconds
+
+Problem: IC-K4-first-stage.lp
+
+  The number of columns: 500
+  The number of columns deleted: 491
+  The number of remaining columns: 9
+
+  The number of times MIP CPLEX was called: 593985
+  The number of times MIP CPLEX was called in PreProcess: 517
+  The number of times ICS was called: -512065
+  The number of monoid elements generated: 81920
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 81920
+
+  Computing time for pre-processing: 2.388 seconds
+  Computing time for monoid generation: 2134.97 seconds
+  Computing time for calling MIP CPLEX: 2129.48 seconds
+  Computing time for monoid filtering: 41.449 seconds
+
+  The total time for monoid generation: 2178.82 seconds
+
+Problem: IC-K4-second-stage.lp
+
+  The number of columns: 500
+  The number of columns deleted: 485
+  The number of remaining columns: 15
+
+  The number of times MIP CPLEX was called: 980708
+  The number of times MIP CPLEX was called in PreProcess: 535
+  The number of times ICS was called: -935030
+  The number of monoid elements generated: 45678
+  The number of monoid elements filtered: 7068
+  The number of monoid elements left: 38610
+
+  Computing time for pre-processing: 2.53 seconds
+  Computing time for monoid generation: 5216.18 seconds
+  Computing time for calling MIP CPLEX: 5210.44 seconds
+  Computing time for monoid filtering: 10.812 seconds
+
+  The total time for monoid generation: 5229.56 seconds
+
+Problem: IC-K5-first-stage.lp
+
+  The number of columns: 500
+  The number of columns deleted: 489
+  The number of remaining columns: 11
+
+  Running time limit exceeded in GenerateMonoid()!
+
+Problem: IC-K5-second-stage.lp
+
+  The number of columns: 500
+  The number of columns deleted: 484
+  The number of remaining columns: 16
+
+  The number of times MIP CPLEX was called: 876893
+  The number of times MIP CPLEX was called in PreProcess: 529
+  The number of times ICS was called: -843742
+  The number of monoid elements generated: 33151
+  The number of monoid elements filtered: 1151
+  The number of monoid elements left: 32000
+
+  Computing time for pre-processing: 2.705 seconds
+  Computing time for monoid generation: 4381.43 seconds
+  Computing time for calling MIP CPLEX: 4375.04 seconds
+  Computing time for monoid filtering: 6.321 seconds
+
+  The total time for monoid generation: 4390.5 seconds
+
+Problem: IC-K6-first-stage.lp
+
+  The number of columns: 500
+  The number of columns deleted: 437
+  The number of remaining columns: 63
+
+  The number of times MIP CPLEX was called: 1171713
+  The number of times MIP CPLEX was called in PreProcess: 775
+  The number of times ICS was called: -1149634
+  The number of monoid elements generated: 22079
+  The number of monoid elements filtered: 6551
+  The number of monoid elements left: 15528
+
+  Computing time for pre-processing: 3.124 seconds
+  Computing time for monoid generation: 16375.4 seconds
+  Computing time for calling MIP CPLEX: 16364.6 seconds
+  Computing time for monoid filtering: 2.194 seconds
+
+  The total time for monoid generation: 16380.7 seconds
+
+Problem: IC-K6-second-stage.lp
+
+  The number of columns: 500
+  The number of columns deleted: 450
+  The number of remaining columns: 50
+
+  The number of times MIP CPLEX was called: 218306
+  The number of times MIP CPLEX was called in PreProcess: 773
+  The number of times ICS was called: -202525
+  The number of monoid elements generated: 15781
+  The number of monoid elements filtered: 4440
+  The number of monoid elements left: 11341
+
+  Computing time for pre-processing: 2.854 seconds
+  Computing time for monoid generation: 3300.99 seconds
+  Computing time for calling MIP CPLEX: 3299.15 seconds
+  Computing time for monoid filtering: 1.159 seconds
+
+  The total time for monoid generation: 3305.04 seconds
+
+Problem: IC-K7-first-stage.lp
+
+  The number of columns: 1000
+  The number of columns deleted: 973
+  The number of remaining columns: 27
+
+  Running time limit exceeded in GenerateMonoid()!
+
+Problem: IC-K7-second-stage.lp
+
+  The number of columns: 500
+  The number of columns deleted: 413
+  The number of remaining columns: 87
+
+  Running time limit exceeded in GenerateMonoid()!
+
+Problem: IC-K8-first-stage.lp
+
+  The number of columns: 500
+  The number of columns deleted: 438
+  The number of remaining columns: 62
+
+  Running time limit exceeded in GenerateMonoid()!
+
+Problem: IC-K8-second-stage.lp
+
+  The number of columns: 500
+  The number of columns deleted: 405
+  The number of remaining columns: 95
+
+  Running time limit exceeded in GenerateMonoid()!
+
+Problem: IC-K9-first-stage.lp
+
+  The number of columns: 300
+  The number of columns deleted: 248
+  The number of remaining columns: 52
+
+  Running time limit exceeded in GenerateMonoid()!
+
+Problem: IC-K9-second-stage.lp
+
+  The number of columns: 500
+  The number of columns deleted: 453
+  The number of remaining columns: 47
+
+  The number of times MIP CPLEX was called: 235294
+  The number of times MIP CPLEX was called in PreProcess: 692
+  The number of times ICS was called: -207107
+  The number of monoid elements generated: 28187
+  The number of monoid elements filtered: 5142
+  The number of monoid elements left: 23045
+
+  Computing time for pre-processing: 2.474 seconds
+  Computing time for monoid generation: 2920.66 seconds
+  Computing time for calling MIP CPLEX: 2918.42 seconds
+  Computing time for monoid filtering: 4.031 seconds
+
+  The total time for monoid generation: 2927.21 seconds
+
+Problem: IC-K10-first-stage.lp
+
+  The number of columns: 1000
+  The number of columns deleted: 963
+  The number of remaining columns: 37
+
+  Running time limit exceeded in GenerateMonoid()!
+
+Problem: IC-K10-second-stage.lp
+
+  The number of columns: 500
+  The number of columns deleted: 484
+  The number of remaining columns: 16
+
+  The number of times MIP CPLEX was called: 64801
+  The number of times MIP CPLEX was called in PreProcess: 531
+  The number of times ICS was called: 80999
+  The number of monoid elements generated: 145800
+  The number of monoid elements filtered: 0
+  The number of monoid elements left: 145800
+
+  Computing time for pre-processing: 2.696 seconds
+  Computing time for monoid generation: 411.772 seconds
+  Computing time for calling MIP CPLEX: 185.659 seconds
+  Computing time for monoid filtering: 128.544 seconds
+
+  The total time for monoid generation: 543.06 seconds
+
+

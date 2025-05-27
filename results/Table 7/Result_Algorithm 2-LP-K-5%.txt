@@ -1,0 +1,110 @@
+Problem: IC-K1-first-stage-negative-5.txt
+
+  z(0) != 0: CPXMIP_UNBOUNDED!
+
+Problem: IC-K1-second-stage-negative-5.txt
+
+  The number of columns: 100
+  Number of monoid elements generated: 40
+  Number of monoid elements left: 24
+
+Problem: IC-K2-first-stage-negative-5.txt
+
+  The number of columns: 500
+  Number of monoid elements generated: 64020
+  Number of monoid elements left: 5621
+
+Problem: IC-K2-second-stage-negative-5.txt
+
+  The number of columns: 500
+  Number of monoid elements generated: 192984
+  Number of monoid elements left: 16370
+
+Problem: IC-K3-first-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 290
+  Number of monoid elements left: 200
+
+Problem: IC-K3-second-stage-negative-5.txt
+
+  The number of columns: 500
+  Number of monoid elements generated: 1409328
+  Number of monoid elements left: 3750
+
+Problem: IC-K4-first-stage-negative-5.txt
+
+  The number of columns: 500
+  Number of monoid elements generated: 64020
+  Number of monoid elements left: 5621
+
+Problem: IC-K4-second-stage-negative-5.txt
+
+  The number of columns: 500
+  Number of monoid elements generated: 192984
+  Number of monoid elements left: 16370
+
+Problem: IC-K5-first-stage-negative-5.txt
+
+  The number of columns: 500
+  Number of monoid elements generated: 929922
+  Number of monoid elements left: 13888
+
+Problem: IC-K5-second-stage-negative-5.txt
+
+  The number of columns: 500
+  Number of monoid elements generated: 397400
+  Number of monoid elements left: 2040
+
+Problem: IC-K6-first-stage-negative-5.txt
+
+  The number of columns: 500
+  Number of monoid elements generated: 6408
+  Number of monoid elements left: 574
+
+Problem: IC-K6-second-stage-negative-5.txt
+
+  The number of columns: 500
+  Number of monoid elements generated: 4809
+  Number of monoid elements left: 439
+
+Problem: IC-K7-second-stage-negative-5.txt
+
+  The number of columns: 500
+  Number of monoid elements generated: 18411
+  Number of monoid elements left: 950
+
+Problem: IC-K8-first-stage-negative-5.txt
+
+  The number of columns: 500
+  Number of monoid elements generated: 3374
+  Number of monoid elements left: 804
+
+Problem: IC-K8-second-stage-negative-5.txt
+
+  The number of columns: 500
+  Number of monoid elements generated: 27120
+  Number of monoid elements left: 988
+
+Problem: IC-K9-first-stage-negative-5.txt
+
+  The number of columns: 300
+  Number of monoid elements generated: 196
+  Number of monoid elements left: 93
+
+Problem: IC-K9-second-stage-negative-5.txt
+
+  The number of columns: 500
+  Number of monoid elements generated: 1840
+  Number of monoid elements left: 229
+
+Problem: IC-K10-first-stage-negative-5.txt
+
+  z(0) != 0: CPXMIP_UNBOUNDED!
+
+Problem: IC-K10-second-stage-negative-5.txt
+
+  The number of columns: 500
+  Number of monoid elements generated: 229602
+  Number of monoid elements left: 6845
+
